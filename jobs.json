@@ -1,107 +1,5 @@
 [
   {
-    "url": "https://www.prohuman.ro/candidati/jobs/CustomerOperationswithGerman",
-    "title": "Customer Operations (Order Management) Specialist cu limba germană",
-    "company": "PROHUMAN APT S.R.L.",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-06T12:03:03.293Z",
-    "status": "scraped",
-    "tags": [
-      "Limbi străine",
-      "Comunicare scrisă/orală"
-    ],
-    "matchPercentage": 50,
-    "reason": "Comunicarea profesională cu clienții în limba germană valorifică competența de comunicare într-o limbă străină modernă."
-  },
-  {
-    "url": "https://www.adecco.com/ro-ro/job-search/asistent-manager-cluj-napoca-cluj/JN-032026-1002223",
-    "title": "Specialist Suport Clienți și Back-Office – Limba Italiană",
-    "company": "ADECCO ROMANIA SRL",
-    "location": [
-      "Brașov, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-06T12:02:34.944Z",
-    "status": "scraped",
-    "tags": [
-      "Limbi străine",
-      "Comunicare scrisă/orală"
-    ],
-    "matchPercentage": 50,
-    "reason": "Suport clienți și back-office în limba italiană; valorifică comunicarea scrisă și orală într-o limbă străină modernă."
-  },
-  {
-    "url": "https://www.accenture.com/ro-en/careers/jobdetails?id=R00315499_en&amp;title=Analist+Recrutare+cu+limba+italian%C4%83",
-    "title": "Analist Recrutare cu limba italiană",
-    "company": "ACCENTURE BOARD SRL",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-06T12:02:15.841Z",
-    "status": "scraped",
-    "tags": [
-      "Comunicare scrisă/orală",
-      "Limbi străine"
-    ],
-    "matchPercentage": 52,
-    "reason": "Interviuri, screening și redactarea descrierilor de job folosesc comunicarea scrisă și orală în italiană."
-  },
-  {
-    "url": "https://www.teamland.ro/apply.php?id=712#content",
-    "title": "Customer Support - limba Engleza",
-    "company": "TEAMLAND SRL",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-06T12:02:13.292Z",
-    "status": "scraped",
-    "tags": [
-      "Comunicare scrisă/orală",
-      "Limbi străine"
-    ],
-    "matchPercentage": 60,
-    "reason": "Suport clienți în limba engleză; comunicarea scrisă și orală este competență de bază a profilului."
-  },
-  {
-    "url": "https://jobs.engie.com/job/Trainee-Comunicare-si-Transformare-a-Culturii-SSM/57032/",
-    "title": "Trainee - Comunicare si Transformare a Culturii SSM",
-    "company": "ENGIE SERVICII SRL",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-06T12:04:15.011Z",
-    "status": "scraped",
-    "tags": [
-      "Comunicare scrisă/orală",
-      "Limbi străine"
-    ],
-    "matchPercentage": 50,
-    "reason": "Rol de comunicare (trainee) care valorifică comunicarea scrisă și orală și gestionarea culturii organizaționale."
-  },
-  {
-    "url": "https://teamtailor.salesconsulting.ro/jobs/8313724-admin-quality-specialist-retail-si-incidente",
-    "title": "Admin Quality - Specialist Retail si Incidente",
-    "company": "SALES CONSULTING SRL",
-    "location": [
-      "București, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-06T12:03:34.244Z",
-    "status": "scraped",
-    "tags": [
-      "Comunicare scrisă/orală",
-      "Analiză textuală"
-    ],
-    "matchPercentage": 52,
-    "reason": "Gestionarea reclamațiilor, investigarea incidentelor și comunicarea cu clienții folosesc comunicarea și analiza documentelor."
-  },
-  {
     "url": "https://www.bestjobs.eu/loc-de-munca/traducator-limba-engleza-proiecte-educationale",
     "title": "Traducător limba engleză – proiecte educaționale",
     "company": "FUNDATIA PENTRU TINERET",
@@ -112,11 +10,28 @@
     "date": "2026-09-05T11:52:56.150Z",
     "status": "scraped",
     "tags": [
-      "Traducere",
-      "Editare și redactare"
+      "Traducere scrisă",
+      "Limba engleza"
     ],
     "matchPercentage": 85,
-    "reason": "Traducere din/in engleză pentru proiecte educaționale; valorifică traducerea, redactarea și scrierea academică."
+    "reason": "Traducător limba engleză în proiecte educaționale - combină traducerea și educația, domenii cheie ale facultății de Litere."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/colaborator-atragere-clienti-traduceri",
+    "title": "Colaborator atragere Clienți – Traduceri",
+    "company": "FDA EXPERTS S.R.L.",
+    "location": [
+      "Remote, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-05T11:59:39.414Z",
+    "status": "scraped",
+    "tags": [
+      "Comunicare scrisă",
+      "Traducere scrisă"
+    ],
+    "matchPercentage": 60,
+    "reason": "Colaborare în domeniul traducerilor - atragere clienți pentru un birou de traduceri. Este relevant pentru competențele de comunicare și limbi străine."
   },
   {
     "url": "https://www.ejobs.ro/user/locuri-de-munca/revizor-documente-birou-de-traduceri/1983443",
@@ -130,10 +45,10 @@
     "status": "scraped",
     "tags": [
       "Editare și redactare",
-      "Traducere scrisă"
+      "Analiză lexicală"
     ],
-    "matchPercentage": 82,
-    "reason": "Revizuirea documentelor traduse presupune atenție la detalii, cunoștințe solide de limbă și competențe de editare/redactare. Potrivire foarte bună"
+    "matchPercentage": 90,
+    "reason": "Revizor documente într-un birou de traduceri - folosește competențe de editare, redactare, analiză lingvistică și atenție la detalii."
   },
   {
     "url": "https://teams.emag.ro/jobs/?gh_jid=4957639101",
@@ -146,11 +61,45 @@
     "date": "2026-09-02T12:59:09.777Z",
     "status": "scraped",
     "tags": [
-      "Traducere scrisă",
+      "Editare și redactare",
+      "Traducere scrisă"
+    ],
+    "matchPercentage": 80,
+    "reason": "Specialist conținut cu focus pe traduceri - combină redactarea, editarea și traducerea, competențe de bază ale filologului."
+  },
+  {
+    "url": "https://www.prohuman.ro/candidati/jobs/Redactor-TL-editura-Oradea",
+    "title": "Redactor/TL editura",
+    "company": "PROHUMAN APT S.R.L.",
+    "location": [
+      "Oradea, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-13T13:12:10.021Z",
+    "status": "scraped",
+    "tags": [
+      "Editare și redactare de text",
       "Comunicare scrisă"
     ],
     "matchPercentage": 85,
-    "reason": "Post de junior în traduceri și conținut, remote. Ideal pentru student. Folosește competențele de traducere și comunicare scrisă"
+    "reason": "Activitate editorială, editare și redactare de text, cunoașterea limbii române"
+  },
+  {
+    "url": "https://www.prohuman.ro/candidati/jobs/Redactor-TL-editura",
+    "title": "Redactor/TL editura",
+    "company": "PROHUMAN APT S.R.L.",
+    "location": [
+      "Oradea, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-12T12:04:10.579Z",
+    "status": "scraped",
+    "tags": [
+      "Editare și redactare de text",
+      "Comunicare scrisă"
+    ],
+    "matchPercentage": 85,
+    "reason": "Activitate editorială, editare și redactare de text, cunoașterea limbii române"
   },
   {
     "url": "https://www.ejobs.ro/user/locuri-de-munca/redactor-educational-limba-romana/1983048",
@@ -164,10 +113,10 @@
     "status": "scraped",
     "tags": [
       "Predarea limbii române",
-      "Editare și redactare"
+      "Comunicare scrisă"
     ],
-    "matchPercentage": 92,
-    "reason": "Redactor educațional pentru limbă română la editură — corespunde perfect cu competențele de predare a limbii române, analiză lingvistică și editare de text"
+    "matchPercentage": 90,
+    "reason": "Redactor educațional limba română, predarea limbii române, cunoașterea limbii"
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/redactor-78",
@@ -183,8 +132,8 @@
       "Comunicare scrisă",
       "Jurnalism"
     ],
-    "matchPercentage": 78,
-    "reason": "Redactor la un post de știri — potrivit pentru profilul de jurnalism/mass-media. Necesită competențe de comunicare scrisă și cunoașterea limbii române"
+    "matchPercentage": 75,
+    "reason": "Jurnalism și mass-media, comunicare scrisă, redactare"
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/redactor-redactor-sef",
@@ -197,11 +146,28 @@
     "date": "2026-09-05T11:43:11.044Z",
     "status": "scraped",
     "tags": [
-      "Comunicare scrisă",
-      "Jurnalism"
+      "Jurnalism",
+      "Comunicare scrisă"
     ],
-    "matchPercentage": 75,
-    "reason": "Redactor la ziar în Cluj-Napoca. Rolul de redactor-șef poate fi ambițios ca student, dar redactor este potrivit. Locația ideală"
+    "matchPercentage": 80,
+    "reason": "Jurnalism local Cluj-Napoca, redactare, comunicare scrisă"
+  },
+  {
+    "url": "https://www.prohuman.ro/candidati/jobs/ManagingEditor",
+    "title": "Managing Editor",
+    "company": "PROHUMAN APT S.R.L.",
+    "location": [
+      "Oradea, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-13T13:12:10.021Z",
+    "status": "scraped",
+    "tags": [
+      "Editare și redactare de text",
+      "Comunicare scrisă"
+    ],
+    "matchPercentage": 80,
+    "reason": "Management editorial, editare și redactare, educație"
   },
   {
     "url": "https://crosswork.sincron.biz/jobs/details/741/junior-news-editor",
@@ -211,14 +177,48 @@
       "all, Romania"
     ],
     "salary": null,
-    "date": "2026-09-06T12:02:35.519Z",
+    "date": "2026-09-13T13:10:23.120Z",
     "status": "scraped",
     "tags": [
-      "Comunicare scrisă",
-      "Jurnalism"
+      "Jurnalism",
+      "Comunicare scrisă"
+    ],
+    "matchPercentage": 75,
+    "reason": "Editare știri, jurnalism, comunicare scrisă"
+  },
+  {
+    "url": "https://www.prohuman.ro/candidati/jobs/edmanaging",
+    "title": "Managing Editor",
+    "company": "PROHUMAN APT S.R.L.",
+    "location": [
+      "Oradea, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-13T13:08:34.889Z",
+    "status": "scraped",
+    "tags": [
+      "Editare și redactare de text",
+      "Comunicare scrisă"
     ],
     "matchPercentage": 80,
-    "reason": "Junior news editor — potrivit ca nivel de experiență și domeniu (jurnalism/mass-media). Competențele de comunicare și analiză text sunt transferabile"
+    "reason": "Management editorial, editare și redactare, educație"
+  },
+  {
+    "url": "https://www.teamland.ro/apply.php?id=1307#content",
+    "title": "Web editor",
+    "company": "TEAMLAND SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-12T12:00:42.377Z",
+    "status": "scraped",
+    "tags": [
+      "Editare și redactare de text",
+      "Comunicare scrisă"
+    ],
+    "matchPercentage": 65,
+    "reason": "Editare web, redactare conținut online"
   },
   {
     "url": "https://multijobs.ro/job/associate-editor-cluj-napoca-hybrid/5793",
@@ -231,11 +231,11 @@
     "date": "2026-09-05T11:42:04.457Z",
     "status": "scraped",
     "tags": [
-      "Editare și redactare",
+      "Editare și redactare de text",
       "Comunicare scrisă"
     ],
-    "matchPercentage": 60,
-    "reason": "Editing role in Cluj-Napoca; editare si redactare de text applies but company is tech/data-focused"
+    "matchPercentage": 75,
+    "reason": "Editor în Cluj-Napoca, editare text, hibrid"
   },
   {
     "url": "https://usamvjobs.ro/job/bucuresti-6-internship-jurnalist-multimedia/",
@@ -249,10 +249,10 @@
     "status": "scraped",
     "tags": [
       "Comunicare scrisă",
-      "Jurnalism"
+      "Comunicare orală"
     ],
     "matchPercentage": 75,
-    "reason": "Internship in journalism; good entry point matching jurnalism și mass-media domain"
+    "reason": "Internship în jurnalism multimedia, domeniu aliniat profilului. Comunicarea scrisă și orală sunt esențiale."
   },
   {
     "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/270047/Aleph-News/Editor/Jurnalist-Aleph-Business",
@@ -265,11 +265,11 @@
     "date": "2026-09-04T12:58:27.602Z",
     "status": "scraped",
     "tags": [
-      "Comunicare scrisă",
-      "Editare și redactare"
+      "Editare text",
+      "Jurnalism"
     ],
     "matchPercentage": 70,
-    "reason": "Editor/journalist role for business news; aligns with jurnalism și mass-media, writing skills"
+    "reason": "Rol de jurnalist/editor în media business. Redactarea și analiza textului sunt competențe dobândite la Litere."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/jurnalist-tv-digital",
@@ -283,10 +283,10 @@
     "status": "scraped",
     "tags": [
       "Comunicare scrisă",
-      "Jurnalism"
+      "Comunicare orală"
     ],
     "matchPercentage": 70,
-    "reason": "TV and digital journalism; matches jurnalism și mass-media domain and communication competencies"
+    "reason": "Jurnalism TV și digital, potrivit pentru profilul de Litere datorită competențelor de comunicare și redactare."
   },
   {
     "url": "https://jobviewtrack.com/v2/J2MZhHZrdFO8MJqQmFwIxGpR_PFlhd_pEMnpf6jVMaho5CCKEBg2tZRliGzYiEEmJRpObZ8oXC1WQKGDsnLt8uXXarbbBOLjJm1zQuuo7yFWKQGXgn5_ggAAFRtcieLlEqBvgool9z8_p4Ejy8DFa6jK9YVQtWIKpO4sPuPWePN0WDhEImp2Gp6fxBHppGByrgUbh3JLqsDV7Scs9x--pD2bDqZ8NyHN1iGwQ8vsOgU",
@@ -299,11 +299,11 @@
     "date": "2026-08-30T13:35:58.541Z",
     "status": "scraped",
     "tags": [
-      "Comunicare scrisă",
-      "Editare și redactare"
+      "Editare text",
+      "Jurnalism"
     ],
     "matchPercentage": 70,
-    "reason": "Duplicate listing; same as #7"
+    "reason": "Rol identic cu job #3 - jurnalism și editare, aliniat competențelor de comunicare și analiză text."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/jurnalist-in-sibiu",
@@ -320,7 +320,40 @@
       "Jurnalism"
     ],
     "matchPercentage": 65,
-    "reason": "Journalism role; matches jurnalism domain but location is Sibiu, not Cluj"
+    "reason": "Jurnalism în Sibiu, dar la o companie de mentenanță energetică - potrivit parțial, domeniul tehnic e neobișnuit."
+  },
+  {
+    "url": "https://leviatan.ro/social-media-specialist/",
+    "title": "Content Writer și Social Media Specialist",
+    "company": "LEVIATAN MANAGEMENT SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-13T13:12:42.424Z",
+    "status": "scraped",
+    "tags": [
+      "Comunicare scrisă",
+      "Editare text"
+    ],
+    "matchPercentage": 75,
+    "reason": "Scriere de conținut și social media - competențele de comunicare scrisă și editare sunt direct transferabile."
+  },
+  {
+    "url": "https://www.prohuman.ro/candidati/jobs/Content-moderator",
+    "title": "Content moderator",
+    "company": "PROHUMAN APT S.R.L.",
+    "location": [
+      "Brașov, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-13T13:12:10.021Z",
+    "status": "scraped",
+    "tags": [
+      "Analiză lexicală"
+    ],
+    "matchPercentage": 50,
+    "reason": "Moderare de conținut, parțial aliniată - analiza textului e relevantă, dar lipsa descrierii face evaluarea incertă."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/content-writer-74",
@@ -330,31 +363,14 @@
       "Remote, Romania"
     ],
     "salary": null,
-    "date": "2026-09-06T12:01:40.632Z",
+    "date": "2026-09-13T13:10:11.534Z",
     "status": "scraped",
     "tags": [
       "Comunicare scrisă",
-      "Editare și redactare"
+      "Editare text"
     ],
-    "matchPercentage": 70,
-    "reason": "Content writing role; matches comunicare scrisă and editare competencies, remote available"
-  },
-  {
-    "url": "https://teams.emag.ro/jobs/?gh_jid=4957649101",
-    "title": "Junior Content Specialist - Documentare",
-    "company": "EMAG RETAIL S.R.L.",
-    "location": [
-      "Remote -, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-06T12:00:49.860Z",
-    "status": "scraped",
-    "tags": [
-      "Comunicare scrisă",
-      "Scriere academică"
-    ],
-    "matchPercentage": 65,
-    "reason": "Junior level, documentation/content role; scriere academică and comunicare scrisă apply"
+    "matchPercentage": 80,
+    "reason": "Scriere de conținut remote - competențele de comunicare scrisă și redactare sunt exact ceea ce se cere."
   },
   {
     "url": "https://www.teamland.ro/apply.php?id=395#content",
@@ -364,14 +380,31 @@
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-09-06T11:58:23.344Z",
+    "date": "2026-09-13T13:09:18.098Z",
     "status": "scraped",
     "tags": [
       "Comunicare scrisă",
-      "Editare și redactare"
+      "Editare text"
     ],
-    "matchPercentage": 60,
-    "reason": "Content specialist role; likely involves writing and editing, matches comunicare scrisă"
+    "matchPercentage": 75,
+    "reason": "Specialist conținut - scrierea și editarea textului sunt competențe cheie ale profilului de Litere."
+  },
+  {
+    "url": "https://cariere.raiffeisen.ro/company/raiffeisen-bank/jobs/copywriter-owned-media-area",
+    "title": "Copywriter Owned Media Area",
+    "company": "RAIFFEISEN BANK SA",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-13T13:08:57.871Z",
+    "status": "scraped",
+    "tags": [
+      "Comunicare scrisă",
+      "Editare text"
+    ],
+    "matchPercentage": 75,
+    "reason": "Copywriting în media - comunicarea scrisă, editarea textului și analiza stilistică sunt direct aplicabile."
   },
   {
     "url": "https://www.gomag.ro/blog/se-cauta-coleg-colega-copywriter-in-baia-mare/",
@@ -381,14 +414,14 @@
       "Baia Mare, Romania"
     ],
     "salary": null,
-    "date": "2026-09-06T11:58:40.579Z",
+    "date": "2026-09-11T12:45:11.840Z",
     "status": "scraped",
     "tags": [
       "Comunicare scrisă",
-      "Editare și redactare"
+      "Editare text"
     ],
-    "matchPercentage": 65,
-    "reason": "Copywriting aligns with comunicare scrisă; requires SEO writing which is learnable"
+    "matchPercentage": 70,
+    "reason": "Copywriting și SEO marketing - comunicarea scrisă e competența principală, dar SEO necesită învățare suplimentară."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/ads-copywriter",
@@ -402,27 +435,10 @@
     "status": "scraped",
     "tags": [
       "Comunicare scrisă",
-      "Stilistică"
-    ],
-    "matchPercentage": 60,
-    "reason": "Ad copywriting; communication and writing skills apply, but requires marketing instinct"
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/seo-expert-copywriter-limba-germana-1",
-    "title": "SEO Expert &amp; Copywriter - limba germana",
-    "company": "ROEN CONNECTION SRL",
-    "location": [
-      "Peru Sfetca Nr 3, Timișoara, Judetul Timis, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-03T12:55:00.023Z",
-    "status": "scraped",
-    "tags": [
-      "Editare text",
-      "Limba straina"
+      "Editare text"
     ],
     "matchPercentage": 75,
-    "reason": "Redactare texte SEO + limba straina (germana)"
+    "reason": "Copywriting pentru reclame, remote - competențele de scriere și comunicare sunt transferabile direct."
   },
   {
     "url": "https://www.ejobs.ro/user/locuri-de-munca/copywriter/1980974",
@@ -435,11 +451,11 @@
     "date": "2026-08-24T09:13:34.483Z",
     "status": "scraped",
     "tags": [
-      "Comunicare scrisa",
+      "Comunicare scrisă",
       "Editare text"
     ],
     "matchPercentage": 80,
-    "reason": "Scriere creativa si redactare continut digital"
+    "reason": "Copywriting remote, potrivit pentru începători - comunicarea scrisă e competența fundamentală a profilului de Litere."
   },
   {
     "url": "https://multijobs.ro/job/referent-de-specialitate-secretariat/579",
@@ -452,11 +468,11 @@
     "date": "2026-09-04T12:47:12.807Z",
     "status": "scraped",
     "tags": [
-      "Cultura",
-      "Organizare"
+      "Analiză literară",
+      "Cunoașterea literaturii române"
     ],
-    "matchPercentage": 70,
-    "reason": "Cultura si spectacol, posibila legatura cu studiile de Litere"
+    "matchPercentage": 65,
+    "reason": "Teatrul implică cunoștințe de literatură, analiză text și cultură. Funcția de referent de specialitate poate presupune documentare, redactare, cunoașterea dramaturgiei."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3342750",
@@ -469,43 +485,27 @@
     "date": "2026-09-01T13:17:12.400Z",
     "status": "scraped",
     "tags": [
-      "Cultura",
-      "Cercetare"
+      "Cunoașterea literaturii",
+      "Metodologie de cercetare"
     ],
-    "matchPercentage": 85,
-    "reason": "Bibliotecar, studii superioare necesare, domeniu cultural"
+    "matchPercentage": 75,
+    "reason": "Postul de bibliotecar presupune cunoașterea literaturii, organizarea informației, capacitate de cercetare și redactare — toate competențe centrale ale studiului la Litere."
   },
   {
-    "url": "https://ptc.wd1.myworkdayjobs.com/en-US/PTC/job/ROM-Bucharest-PO/Education-Customer-Operations-Specialist_JR112550",
-    "title": "Education Customer Operations Specialist",
-    "company": "PTC GRUP S.R.L.",
+    "url": "https://apply.deloittece.com/en_US/careers/JobDetail/AR-Disputes-Specialist-with-Spanish/19545",
+    "title": "AR Disputes Specialist with Spanish",
+    "company": "DELOITTE TAX SRL",
     "location": [
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-09-06T12:04:18.104Z",
+    "date": "2026-09-13T13:15:36.818Z",
     "status": "scraped",
     "tags": [
-      "Educatie",
-      "Comunicare"
+      "Traducere",
+      "Comunicare scrisă"
     ],
-    "matchPercentage": 65,
-    "reason": "Educatie si operatiuni clienti, posibila legatura cu didactica"
-  },
-  {
-    "url": "https://www.ejobs.ro/user/locuri-de-munca/turkish-english-romanian-translator/1980181",
-    "title": "Turkish–English–Romanian Translator",
-    "company": "OZALTIN INSAAT TICARET VE SANAYI ANONIM SIRKETI ANKARA SUCURSALA BUCURESTI",
-    "location": [
-      "Targumures, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-04T12:41:31.827Z",
-    "status": "scraped",
-    "tags": [
-      "Traducere"
-    ],
-    "matchPercentage": 85,
-    "reason": "Poziție de translator între turcă-engleză-română. Se potrivește direct cu competențele de traducere scrisă/orală și cunoștințele de limbi străine."
+    "matchPercentage": 55,
+    "reason": "Dacă studențul are cunoștințe de spaniolă (limbă străină modernă din plan), postul valorifică competențele lingvistice. Implică redactare și comunicare scrisă în limbi străine."
   }
 ]
