@@ -1,5 +1,209 @@
 [
   {
+    "url": "https://www.teamland.ro/apply.php?id=1394#content",
+    "title": "Asistent departament achizitii - Limba germana",
+    "company": "TEAMLAND SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-20T13:00:46.988Z",
+    "status": "scraped",
+    "tags": [
+      "limbă străină",
+      "comunicare scrisă"
+    ],
+    "matchPercentage": 55,
+    "reason": "Comunicare într-o limbă străină modernă (germană) și comunicare scrisă/orală corespund profilului, deși domeniul achizițiilor diferă."
+  },
+  {
+    "url": "https://www.adecco.com/ro-ro/job-search/asistent-manager-cluj-napoca-cluj/JN-032026-1002223",
+    "title": "Specialist Suport Clienți și Back-Office – Limba Italiană",
+    "company": "ADECCO ROMANIA SRL",
+    "location": [
+      "Brașov, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-20T13:00:40.813Z",
+    "status": "scraped",
+    "tags": [
+      "limbă străină",
+      "comunicare orală"
+    ],
+    "matchPercentage": 60,
+    "reason": "Cere limba italiană conversațional/avansat, abilități digitale și comunicare profesionistă; se potrivește cu competențele de limbă străină."
+  },
+  {
+    "url": "https://www.teamland.ro/apply.php?id=695#content",
+    "title": "Customer Support - limba Olandeza",
+    "company": "TEAMLAND SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-20T12:59:15.379Z",
+    "status": "scraped",
+    "tags": [
+      "limbă străină",
+      "comunicare orală"
+    ],
+    "matchPercentage": 55,
+    "reason": "Rol de comunicare cu clienții folosind o limbă străină (olandeză); corespunde limbii străine moderne și comunicării orale."
+  },
+  {
+    "url": "https://www.teamland.ro/apply.php?id=670#content",
+    "title": "Customer Support - Limba Italiana",
+    "company": "TEAMLAND SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-20T12:59:15.379Z",
+    "status": "scraped",
+    "tags": [
+      "limbă străină",
+      "comunicare orală"
+    ],
+    "matchPercentage": 60,
+    "reason": "Suport clienți în limba italiană; potrivit pentru competențele lingvistice și de comunicare ale unui student la Litere."
+  },
+  {
+    "url": "https://www.teamland.ro/apply.php?id=669#content",
+    "title": "Customer Support - Limba Spaniola",
+    "company": "TEAMLAND SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-20T12:59:15.379Z",
+    "status": "scraped",
+    "tags": [
+      "limbă străină",
+      "comunicare orală"
+    ],
+    "matchPercentage": 60,
+    "reason": "Contact direct cu clienți în limba spaniolă; valorifică limba străină modernă și comunicarea orală."
+  },
+  {
+    "url": "https://www.teamland.ro/apply.php?id=672#content",
+    "title": "Customer Support - Limba Italiana",
+    "company": "TEAMLAND SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-20T12:59:15.379Z",
+    "status": "scraped",
+    "tags": [
+      "limbă străină",
+      "comunicare orală"
+    ],
+    "matchPercentage": 60,
+    "reason": "Suport clienți în limba italiană, similar altor roluri lingvistice; potrivit pentru competențele de limbă străină."
+  },
+  {
+    "url": "https://www.teamland.ro/apply.php?id=647#content",
+    "title": "Dealer Online - Limba Engleza",
+    "company": "TEAMLAND SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-20T12:59:15.379Z",
+    "status": "scraped",
+    "tags": [
+      "limbă străină",
+      "comunicare orală"
+    ],
+    "matchPercentage": 45,
+    "reason": "Cere limba engleză și comunicare; accesibil pentru un vorbitor de limbă engleză, deși specificul rolului nu este filologic."
+  },
+  {
+    "url": "https://www.teamland.ro/apply.php?id=673#content",
+    "title": "Customer Support - Limba Germana",
+    "company": "TEAMLAND SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-20T12:59:15.379Z",
+    "status": "scraped",
+    "tags": [
+      "limbă străină",
+      "comunicare orală"
+    ],
+    "matchPercentage": 60,
+    "reason": "Suport clienți în limba germană; se potrivește competențelor de limbă străină și comunicare ale unui absolvent de Litere."
+  },
+  {
+    "url": "https://www.teamland.ro/apply.php?id=671#content",
+    "title": "Customer Support - Limba Portugheza",
+    "company": "TEAMLAND SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-20T12:59:15.379Z",
+    "status": "scraped",
+    "tags": [
+      "limbă străină",
+      "comunicare orală"
+    ],
+    "matchPercentage": 55,
+    "reason": "Comunicare cu clienții în portugheză; valorifică limba străină modernă și comunicarea orală."
+  },
+  {
+    "url": "https://www.teamland.ro/apply.php?id=619#content",
+    "title": "Dealer Online - Limba Engleza",
+    "company": "TEAMLAND SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-20T12:59:15.379Z",
+    "status": "scraped",
+    "tags": [
+      "limbă străină",
+      "comunicare orală"
+    ],
+    "matchPercentage": 45,
+    "reason": "Rol în limba engleză, cerință de comunicare; potrivit profilului lingvistic, deși nu e specific filologiei."
+  },
+  {
+    "url": "https://makitajobs.ro/traducator-limba-japoneza/",
+    "title": "Traducător Limba Japoneză",
+    "company": "MAKITA EU SRL",
+    "location": [
+      "all, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-19T12:17:58.524Z",
+    "status": "scraped",
+    "tags": [
+      "traducere scrisă",
+      "traducere orală"
+    ],
+    "matchPercentage": 55,
+    "reason": "Rol de traducere/interpretariat care corespunde competenței de traducere scrisă și orală, cu condiția cunoașterii limbii japoneze."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/asistent-manager-traducator-limba-turca",
+    "title": "ASISTENT MANAGER/TRADUCATOR - LIMBA TURCA",
+    "company": "CUPRUMOLD MINING S.A.",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-05T11:58:05.079Z",
+    "status": "scraped",
+    "tags": [
+      "traducere scrisă",
+      "traducere orală"
+    ],
+    "matchPercentage": 60,
+    "reason": "Include traducere și asistență managerială în limba turcă; potrivit dacă vorbitor de limba turcă."
+  },
+  {
     "url": "https://www.bestjobs.eu/loc-de-munca/traducator-limba-engleza-proiecte-educationale",
     "title": "Traducător limba engleză – proiecte educaționale",
     "company": "FUNDATIA PENTRU TINERET",
@@ -10,28 +214,28 @@
     "date": "2026-09-05T11:52:56.150Z",
     "status": "scraped",
     "tags": [
-      "Traducere scrisă",
-      "Limba engleza"
+      "traducere scrisă",
+      "predarea limbii"
     ],
-    "matchPercentage": 85,
-    "reason": "Traducător limba engleză în proiecte educaționale - combină traducerea și educația, domenii cheie ale facultății de Litere."
+    "matchPercentage": 70,
+    "reason": "Traducere în limba engleză pentru proiecte educaționale, direct legată de traducere și predarea limbii."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/colaborator-atragere-clienti-traduceri",
-    "title": "Colaborator atragere Clienți – Traduceri",
-    "company": "FDA EXPERTS S.R.L.",
+    "url": "https://www.publi24.ro/anunturi/locuri-de-munca/profesori-traineri/anunt/profesoara-traducator-autorizat-doresc-colaborare-lb-engleza/62ehd6i0i7e67ed5d90ef6h45345821d.html",
+    "title": "Profesoara  traducator autorizat doresc colaborare lb engleza",
+    "company": "PUBLI24 DIGITAL S.R.L.",
     "location": [
-      "Remote, Romania"
+      "Sector 4, Romania"
     ],
     "salary": null,
-    "date": "2026-09-05T11:59:39.414Z",
+    "date": "2026-08-23T08:39:31.239Z",
     "status": "scraped",
     "tags": [
-      "Comunicare scrisă",
-      "Traducere scrisă"
+      "predarea limbii",
+      "traducere scrisă"
     ],
-    "matchPercentage": 60,
-    "reason": "Colaborare în domeniul traducerilor - atragere clienți pentru un birou de traduceri. Este relevant pentru competențele de comunicare și limbi străine."
+    "matchPercentage": 65,
+    "reason": "Colaborare de predare și traducere în limba engleză; potrivit pentru predarea limbii și traducere."
   },
   {
     "url": "https://www.ejobs.ro/user/locuri-de-munca/revizor-documente-birou-de-traduceri/1983443",
@@ -44,11 +248,11 @@
     "date": "2026-09-05T11:58:27.512Z",
     "status": "scraped",
     "tags": [
-      "Editare și redactare",
-      "Analiză lexicală"
+      "Traducere",
+      "Editare text"
     ],
-    "matchPercentage": 90,
-    "reason": "Revizor documente într-un birou de traduceri - folosește competențe de editare, redactare, analiză lingvistică și atenție la detalii."
+    "matchPercentage": 85,
+    "reason": "Revizuirea documentelor într-un birou de traduceri folosește direct competențele de traducere, editare și redactare."
   },
   {
     "url": "https://teams.emag.ro/jobs/?gh_jid=4957639101",
@@ -61,45 +265,28 @@
     "date": "2026-09-02T12:59:09.777Z",
     "status": "scraped",
     "tags": [
-      "Editare și redactare",
-      "Traducere scrisă"
+      "Traducere",
+      "Redactare text"
     ],
     "matchPercentage": 80,
-    "reason": "Specialist conținut cu focus pe traduceri - combină redactarea, editarea și traducerea, competențe de bază ale filologului."
+    "reason": "Post junior de conținut și traduceri, potrivit pentru un absolvent de Litere."
   },
   {
-    "url": "https://www.prohuman.ro/candidati/jobs/Redactor-TL-editura-Oradea",
-    "title": "Redactor/TL editura",
-    "company": "PROHUMAN APT S.R.L.",
+    "url": "https://www.bestjobs.eu/loc-de-munca/redactor-operator-calculator-1",
+    "title": "Redactor/Operator calculator",
+    "company": "SOCIETATE PROFESIONALA DE CONSILIERI JURIDICI M.ANUSCA &amp; E.V.PLAVANESCU SRL",
     "location": [
-      "Oradea, Romania"
+      "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-09-13T13:12:10.021Z",
+    "date": "2026-09-05T11:49:20.158Z",
     "status": "scraped",
     "tags": [
-      "Editare și redactare de text",
-      "Comunicare scrisă"
+      "Redactare text",
+      "Editare text"
     ],
-    "matchPercentage": 85,
-    "reason": "Activitate editorială, editare și redactare de text, cunoașterea limbii române"
-  },
-  {
-    "url": "https://www.prohuman.ro/candidati/jobs/Redactor-TL-editura",
-    "title": "Redactor/TL editura",
-    "company": "PROHUMAN APT S.R.L.",
-    "location": [
-      "Oradea, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-12T12:04:10.579Z",
-    "status": "scraped",
-    "tags": [
-      "Editare și redactare de text",
-      "Comunicare scrisă"
-    ],
-    "matchPercentage": 85,
-    "reason": "Activitate editorială, editare și redactare de text, cunoașterea limbii române"
+    "matchPercentage": 55,
+    "reason": "Tehnoredactare și editare de documente într-un birou; posibilă, deși fără specific filologic."
   },
   {
     "url": "https://www.ejobs.ro/user/locuri-de-munca/redactor-educational-limba-romana/1983048",
@@ -112,11 +299,28 @@
     "date": "2026-09-05T11:44:50.417Z",
     "status": "scraped",
     "tags": [
-      "Predarea limbii române",
-      "Comunicare scrisă"
+      "Limba română",
+      "Editare text"
     ],
-    "matchPercentage": 90,
-    "reason": "Redactor educațional limba română, predarea limbii române, cunoașterea limbii"
+    "matchPercentage": 95,
+    "reason": "Combinație ideală între stăpânirea limbii române, editare și predare — competențe centrale ale profilului."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/redactor-culegeri-de-legislatie",
+    "title": "Redactor culegeri de legislație",
+    "company": "UNIVERSUL PLANTAȚIILOR S.R.L.",
+    "location": [
+      "Remote, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-05T11:44:25.933Z",
+    "status": "scraped",
+    "tags": [
+      "Editare text",
+      "Redactare text"
+    ],
+    "matchPercentage": 60,
+    "reason": "Redactare de culegeri legislative; cere atenție la detalii și editare, deși domeniul este juridic."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/redactor-78",
@@ -129,11 +333,11 @@
     "date": "2026-09-05T11:43:16.535Z",
     "status": "scraped",
     "tags": [
-      "Comunicare scrisă",
-      "Jurnalism"
+      "Redactare text",
+      "Comunicare scrisă"
     ],
-    "matchPercentage": 75,
-    "reason": "Jurnalism și mass-media, comunicare scrisă, redactare"
+    "matchPercentage": 70,
+    "reason": "Redactare media pentru televiziune; folosește scrisul, redactarea și comunicarea în limba română."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/redactor-redactor-sef",
@@ -146,62 +350,45 @@
     "date": "2026-09-05T11:43:11.044Z",
     "status": "scraped",
     "tags": [
-      "Jurnalism",
+      "Redactare text",
       "Comunicare scrisă"
     ],
-    "matchPercentage": 80,
-    "reason": "Jurnalism local Cluj-Napoca, redactare, comunicare scrisă"
+    "matchPercentage": 65,
+    "reason": "Redacție de presă locală în Cluj; potrivit pentru jurnalism, deși include și o componentă de coordonare."
   },
   {
-    "url": "https://www.prohuman.ro/candidati/jobs/ManagingEditor",
-    "title": "Managing Editor",
-    "company": "PROHUMAN APT S.R.L.",
+    "url": "https://jobviewtrack.com/v2/0jvyxbOvtyGrJoswcGr2J_zJMVmOPaTK2hnUZmYqJmftDiBRdXtlVCtSI-aTb_gKLz1pgC7TcDPm4MCAV5AKk9vOJejoLowsYvFmr1Gl4qAE7oZDBz96hHMvKWEvHCF8rzYYlp3N9AYTrZqACeIF4Vk9AJu7Ls7Lr1gT1cslS_Cx1SFxp7FSjtRzIsv5-SfaxGiIFjmmEhDmK40pkIvu50UzXUVoUdSE0xh0pvo1znk",
+    "title": "Redactor",
+    "company": "KRONSTEF SRL",
     "location": [
-      "Oradea, Romania"
+      "Targu Jiu, Gorj, Romania"
     ],
     "salary": null,
-    "date": "2026-09-13T13:12:10.021Z",
+    "date": "2026-08-30T13:45:16.185Z",
     "status": "scraped",
     "tags": [
-      "Editare și redactare de text",
-      "Comunicare scrisă"
+      "Redactare text",
+      "Editare text"
     ],
-    "matchPercentage": 80,
-    "reason": "Management editorial, editare și redactare, educație"
+    "matchPercentage": 40,
+    "reason": "Post generic de redactor, dar pagina este indisponibilă — fără detalii despre atribuții."
   },
   {
-    "url": "https://crosswork.sincron.biz/jobs/details/741/junior-news-editor",
-    "title": "Junior News Editor",
-    "company": "CROSS WORK S.R.L.",
+    "url": "https://multijobs.ro/job/editor-grafica-si-text/2754",
+    "title": "Editor grafică și text",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
     "location": [
-      "all, Romania"
+      "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-09-13T13:10:23.120Z",
+    "date": "2026-09-04T12:37:56.567Z",
     "status": "scraped",
     "tags": [
-      "Jurnalism",
-      "Comunicare scrisă"
+      "Editare text",
+      "Informatică aplicată"
     ],
-    "matchPercentage": 75,
-    "reason": "Editare știri, jurnalism, comunicare scrisă"
-  },
-  {
-    "url": "https://www.prohuman.ro/candidati/jobs/edmanaging",
-    "title": "Managing Editor",
-    "company": "PROHUMAN APT S.R.L.",
-    "location": [
-      "Oradea, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-13T13:08:34.889Z",
-    "status": "scraped",
-    "tags": [
-      "Editare și redactare de text",
-      "Comunicare scrisă"
-    ],
-    "matchPercentage": 80,
-    "reason": "Management editorial, editare și redactare, educație"
+    "matchPercentage": 45,
+    "reason": "Combină editarea textului cu grafica; parțial potrivit, necesită și abilități de design."
   },
   {
     "url": "https://www.teamland.ro/apply.php?id=1307#content",
@@ -211,14 +398,31 @@
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-09-12T12:00:42.377Z",
+    "date": "2026-09-20T12:57:49.098Z",
     "status": "scraped",
     "tags": [
-      "Editare și redactare de text",
+      "Redactare text",
+      "Informatică aplicată"
+    ],
+    "matchPercentage": 40,
+    "reason": "Editare de conținut web; folosește redactarea și informatica aplicată, dar descriere vagă."
+  },
+  {
+    "url": "https://crosswork.sincron.biz/jobs/details/741/junior-news-editor",
+    "title": "Junior News Editor",
+    "company": "CROSS WORK S.R.L.",
+    "location": [
+      "all, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-20T12:57:00.131Z",
+    "status": "scraped",
+    "tags": [
+      "Redactare text",
       "Comunicare scrisă"
     ],
     "matchPercentage": 65,
-    "reason": "Editare web, redactare conținut online"
+    "reason": "Jurnalism/media la nivel junior, folosește scrisul, redactarea și comunicarea."
   },
   {
     "url": "https://multijobs.ro/job/associate-editor-cluj-napoca-hybrid/5793",
@@ -231,11 +435,28 @@
     "date": "2026-09-05T11:42:04.457Z",
     "status": "scraped",
     "tags": [
-      "Editare și redactare de text",
-      "Comunicare scrisă"
+      "Editare si redactare de text",
+      "Comunicare scrisa in limba romana"
     ],
-    "matchPercentage": 75,
-    "reason": "Editor în Cluj-Napoca, editare text, hibrid"
+    "matchPercentage": 65,
+    "reason": "Rol de editare/redactare, in Cluj, potrivit cu competentele de editare de text"
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/data-editor-tv-streaming-german-english-ro-md",
+    "title": "Data Editor (TV &amp; Streaming) - German&amp;English (RO/MD)",
+    "company": "SIMPLY DELICIOUS BY ANNA S.R.L.",
+    "location": [
+      "Remote, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-05T11:40:32.814Z",
+    "status": "scraped",
+    "tags": [
+      "Limba straina moderna",
+      "Editare si redactare de text"
+    ],
+    "matchPercentage": 55,
+    "reason": "Editare de date cu cerinta de limbi straine, dar mai mult data-entry"
   },
   {
     "url": "https://usamvjobs.ro/job/bucuresti-6-internship-jurnalist-multimedia/",
@@ -248,11 +469,11 @@
     "date": "2026-09-05T11:51:00.442Z",
     "status": "scraped",
     "tags": [
-      "Comunicare scrisă",
-      "Comunicare orală"
+      "Comunicare scrisa si orala",
+      "Scriere academica si jurnalistica"
     ],
-    "matchPercentage": 75,
-    "reason": "Internship în jurnalism multimedia, domeniu aliniat profilului. Comunicarea scrisă și orală sunt esențiale."
+    "matchPercentage": 85,
+    "reason": "Internship de jurnalism, ideal pentru inceput de cariera; foloseste comunicarea scrisa si orala"
   },
   {
     "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/270047/Aleph-News/Editor/Jurnalist-Aleph-Business",
@@ -265,11 +486,11 @@
     "date": "2026-09-04T12:58:27.602Z",
     "status": "scraped",
     "tags": [
-      "Editare text",
-      "Jurnalism"
+      "Comunicare scrisa si orala",
+      "Editare si redactare de text"
     ],
-    "matchPercentage": 70,
-    "reason": "Rol de jurnalist/editor în media business. Redactarea și analiza textului sunt competențe dobândite la Litere."
+    "matchPercentage": 80,
+    "reason": "Jurnalism si editare de stiri/social media, direct pe competente"
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/jurnalist-tv-digital",
@@ -282,230 +503,10 @@
     "date": "2026-09-03T12:38:53.631Z",
     "status": "scraped",
     "tags": [
-      "Comunicare scrisă",
-      "Comunicare orală"
-    ],
-    "matchPercentage": 70,
-    "reason": "Jurnalism TV și digital, potrivit pentru profilul de Litere datorită competențelor de comunicare și redactare."
-  },
-  {
-    "url": "https://jobviewtrack.com/v2/J2MZhHZrdFO8MJqQmFwIxGpR_PFlhd_pEMnpf6jVMaho5CCKEBg2tZRliGzYiEEmJRpObZ8oXC1WQKGDsnLt8uXXarbbBOLjJm1zQuuo7yFWKQGXgn5_ggAAFRtcieLlEqBvgool9z8_p4Ejy8DFa6jK9YVQtWIKpO4sPuPWePN0WDhEImp2Gp6fxBHppGByrgUbh3JLqsDV7Scs9x--pD2bDqZ8NyHN1iGwQ8vsOgU",
-    "title": "Editor/Jurnalist Aleph Business",
-    "company": "ALEPH MEDIA S.R.L.",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-08-30T13:35:58.541Z",
-    "status": "scraped",
-    "tags": [
-      "Editare text",
-      "Jurnalism"
-    ],
-    "matchPercentage": 70,
-    "reason": "Rol identic cu job #3 - jurnalism și editare, aliniat competențelor de comunicare și analiză text."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/jurnalist-in-sibiu",
-    "title": "Jurnalist in Sibiu",
-    "company": "SOCIETATEA PENTRU SERVICII DE MENTENANŢĂ A REŢELEI ELECTRICE DE TRANSPORT &quot;SMART&quot; SA BUCUREŞTI SUCURASALA SIBIU",
-    "location": [
-      "Sibiu, Romania"
-    ],
-    "salary": null,
-    "date": "2026-08-25T08:42:54.061Z",
-    "status": "scraped",
-    "tags": [
-      "Comunicare scrisă",
-      "Jurnalism"
-    ],
-    "matchPercentage": 65,
-    "reason": "Jurnalism în Sibiu, dar la o companie de mentenanță energetică - potrivit parțial, domeniul tehnic e neobișnuit."
-  },
-  {
-    "url": "https://leviatan.ro/social-media-specialist/",
-    "title": "Content Writer și Social Media Specialist",
-    "company": "LEVIATAN MANAGEMENT SRL",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-13T13:12:42.424Z",
-    "status": "scraped",
-    "tags": [
-      "Comunicare scrisă",
-      "Editare text"
-    ],
-    "matchPercentage": 75,
-    "reason": "Scriere de conținut și social media - competențele de comunicare scrisă și editare sunt direct transferabile."
-  },
-  {
-    "url": "https://www.prohuman.ro/candidati/jobs/Content-moderator",
-    "title": "Content moderator",
-    "company": "PROHUMAN APT S.R.L.",
-    "location": [
-      "Brașov, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-13T13:12:10.021Z",
-    "status": "scraped",
-    "tags": [
-      "Analiză lexicală"
-    ],
-    "matchPercentage": 50,
-    "reason": "Moderare de conținut, parțial aliniată - analiza textului e relevantă, dar lipsa descrierii face evaluarea incertă."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/content-writer-74",
-    "title": "Content Writer",
-    "company": "SUPPORTNINJA EASTERN EUROPE S.R.L.",
-    "location": [
-      "Remote, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-13T13:10:11.534Z",
-    "status": "scraped",
-    "tags": [
-      "Comunicare scrisă",
-      "Editare text"
+      "Comunicare scrisa si orala",
+      "Editare si redactare de text"
     ],
     "matchPercentage": 80,
-    "reason": "Scriere de conținut remote - competențele de comunicare scrisă și redactare sunt exact ceea ce se cere."
-  },
-  {
-    "url": "https://www.teamland.ro/apply.php?id=395#content",
-    "title": "Content Specialist",
-    "company": "TEAMLAND SRL",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-13T13:09:18.098Z",
-    "status": "scraped",
-    "tags": [
-      "Comunicare scrisă",
-      "Editare text"
-    ],
-    "matchPercentage": 75,
-    "reason": "Specialist conținut - scrierea și editarea textului sunt competențe cheie ale profilului de Litere."
-  },
-  {
-    "url": "https://cariere.raiffeisen.ro/company/raiffeisen-bank/jobs/copywriter-owned-media-area",
-    "title": "Copywriter Owned Media Area",
-    "company": "RAIFFEISEN BANK SA",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-13T13:08:57.871Z",
-    "status": "scraped",
-    "tags": [
-      "Comunicare scrisă",
-      "Editare text"
-    ],
-    "matchPercentage": 75,
-    "reason": "Copywriting în media - comunicarea scrisă, editarea textului și analiza stilistică sunt direct aplicabile."
-  },
-  {
-    "url": "https://www.gomag.ro/blog/se-cauta-coleg-colega-copywriter-in-baia-mare/",
-    "title": "Copywriter in Baia Mare – Job Marketing",
-    "company": "GOMAGBIZ SRL",
-    "location": [
-      "Baia Mare, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-11T12:45:11.840Z",
-    "status": "scraped",
-    "tags": [
-      "Comunicare scrisă",
-      "Editare text"
-    ],
-    "matchPercentage": 70,
-    "reason": "Copywriting și SEO marketing - comunicarea scrisă e competența principală, dar SEO necesită învățare suplimentară."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/ads-copywriter",
-    "title": "Ads Copywriter",
-    "company": "PROCESS FLOW SRL",
-    "location": [
-      "Remote, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-05T11:54:00.628Z",
-    "status": "scraped",
-    "tags": [
-      "Comunicare scrisă",
-      "Editare text"
-    ],
-    "matchPercentage": 75,
-    "reason": "Copywriting pentru reclame, remote - competențele de scriere și comunicare sunt transferabile direct."
-  },
-  {
-    "url": "https://www.ejobs.ro/user/locuri-de-munca/copywriter/1980974",
-    "title": "Copywriter",
-    "company": "MIDAGIO BOUTIQUE SRL",
-    "location": [
-      "Remote, Romania"
-    ],
-    "salary": null,
-    "date": "2026-08-24T09:13:34.483Z",
-    "status": "scraped",
-    "tags": [
-      "Comunicare scrisă",
-      "Editare text"
-    ],
-    "matchPercentage": 80,
-    "reason": "Copywriting remote, potrivit pentru începători - comunicarea scrisă e competența fundamentală a profilului de Litere."
-  },
-  {
-    "url": "https://multijobs.ro/job/referent-de-specialitate-secretariat/579",
-    "title": "Referent de specialitate- secretariat",
-    "company": "TEATRUL DE DRAMA SI COMEDIE FANTASTIC SRL",
-    "location": [
-      "Timișoara, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-04T12:47:12.807Z",
-    "status": "scraped",
-    "tags": [
-      "Analiză literară",
-      "Cunoașterea literaturii române"
-    ],
-    "matchPercentage": 65,
-    "reason": "Teatrul implică cunoștințe de literatură, analiză text și cultură. Funcția de referent de specialitate poate presupune documentare, redactare, cunoașterea dramaturgiei."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3342750",
-    "title": "BIBLIOTECAR (STUDII SUPERIOARE)",
-    "company": "MOFAR ROMAN SERVICE S.R.L.",
-    "location": [
-      "Municipiul roman, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-01T13:17:12.400Z",
-    "status": "scraped",
-    "tags": [
-      "Cunoașterea literaturii",
-      "Metodologie de cercetare"
-    ],
-    "matchPercentage": 75,
-    "reason": "Postul de bibliotecar presupune cunoașterea literaturii, organizarea informației, capacitate de cercetare și redactare — toate competențe centrale ale studiului la Litere."
-  },
-  {
-    "url": "https://apply.deloittece.com/en_US/careers/JobDetail/AR-Disputes-Specialist-with-Spanish/19545",
-    "title": "AR Disputes Specialist with Spanish",
-    "company": "DELOITTE TAX SRL",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-13T13:15:36.818Z",
-    "status": "scraped",
-    "tags": [
-      "Traducere",
-      "Comunicare scrisă"
-    ],
-    "matchPercentage": 55,
-    "reason": "Dacă studențul are cunoștințe de spaniolă (limbă străină modernă din plan), postul valorifică competențele lingvistice. Implică redactare și comunicare scrisă în limbi străine."
+    "reason": "Jurnalism TV si digital, potrivit cu comunicarea si redactarea"
   }
 ]
