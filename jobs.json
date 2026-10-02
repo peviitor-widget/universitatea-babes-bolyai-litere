@@ -1,37 +1,20 @@
 [
   {
-    "url": "https://www.ejobs.ro/user/locuri-de-munca/invatator-educator-montessori/1989871",
-    "title": "Învățător / Educator Montessori",
-    "company": "SCOALA DE SOFERI AUTO PRIMA SRL",
+    "url": "https://www.bestjobs.eu/loc-de-munca/formator-pentru-instruirea-practica",
+    "title": "Formator pentru Instruirea Practică",
+    "company": "CENTRUL CULTURAL DE LIMBA ENGLEZA SHAKESPEARE SRL",
     "location": [
-      "Brașov,Iași,Bucuresti,Pitești, Romania"
+      "Bdul Carol I nr. 4, corp A, et.III, cam.306, 700505 IASI, Romania"
     ],
     "salary": null,
-    "date": "2026-09-30T15:59:51.523Z",
+    "date": "2026-10-01T15:21:13.361Z",
     "status": "scraped",
     "tags": [
-      "comunicare scrisa",
-      "analiza semantica"
-    ],
-    "matchPercentage": 74,
-    "reason": "Învățător Montessori este post entry-level în educație, cu planificare didactică, comunicare cu părinți și utilizare a competențelor de comunicare în română."
-  },
-  {
-    "url": "https://www.undelucram.ro/ro/locuri-de-munca/content-specialist/100433",
-    "title": "Content Specialist",
-    "company": "DR. VIERU MAXIM S.R.L.",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-30T16:00:21.082Z",
-    "status": "scraped",
-    "tags": [
-      "comunicare scrisa",
-      "analiza stilistica"
+      "comunicare orală",
+      "limbă străină"
     ],
     "matchPercentage": 72,
-    "reason": "Crearea de continut, scripturi, storytelling si copywriting pentru campanii educaționale folosește direct comunicarea scrisă și analiza stilistică, cu nivel potrivit pentru un profil entry/mid."
+    "reason": "Formare practică la un centru cultural de limbă engleză, deci educație și practicare a limbii la nivel entry-level, deși nu vizează direct filologia română."
   },
   {
     "url": "https://www.jobradar24.ro/anunt/interpreters-cultural-mediators-romanian-english-45m2v4",
@@ -44,11 +27,11 @@
     "date": "2026-09-30T14:46:31.343Z",
     "status": "scraped",
     "tags": [
-      "traducerea de texte",
-      "comunicare orală"
+      "limbă străină",
+      "traducere"
     ],
-    "matchPercentage": 70,
-    "reason": "Interpretingul telefonic și video folosește traducerea între limbi și comunicarea, dar sarcinile nu includ analize filologice sau literare specializate."
+    "matchPercentage": 68,
+    "reason": "Interpretare și mediere culturală română-engleză, bazată pe competențe lingvistice reale și la nivel entry-level, dar fără caracter academic."
   },
   {
     "url": "https://www.ejobs.ro/user/locuri-de-munca/interpreters-cultural-mediators-romanian-english/1989261",
@@ -61,61 +44,27 @@
     "date": "2026-09-28T16:38:10.029Z",
     "status": "scraped",
     "tags": [
-      "traducerea de texte",
-      "comunicare orală"
+      "limbă străină",
+      "traducere"
     ],
-    "matchPercentage": 70,
-    "reason": "Activitatea de interpretare și mediere culturală valorifică competența de traducere și comunicare, însă fără sarcini de analiză specializată."
+    "matchPercentage": 68,
+    "reason": "Interpretare și mediere culturală română-engleză, bazată pe competențe lingvistice reale și la nivel entry-level, dar fără caracter academic."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/traducator-limba-engleza-proiecte-educationale",
-    "title": "Traducător limba engleză – proiecte educaționale",
-    "company": "FUNDATIA PENTRU TINERET",
+    "url": "https://www.bestjobs.eu/loc-de-munca/asist-cooperare-educ-in-limba-germana-part-time",
+    "title": "Asist. Cooperare educ. in limba germana-part time",
+    "company": "GOETHE &amp; SCHILLER-DEUTSCHE SCHULE GMBH SRL",
     "location": [
-      "Remote, Romania"
+      "Calea Dorobanti, Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-09-30T15:55:29.961Z",
+    "date": "2026-10-01T15:28:40.706Z",
     "status": "scraped",
     "tags": [
-      "traducerea de texte",
-      "comunicare scrisă"
-    ],
-    "matchPercentage": 70,
-    "reason": "Traducerea de texte pentru proiecte educaționale se apropie de competența de traducere, dar nu include analize filologice aprofundate."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3383911",
-    "title": "ASISTENT RELATII PUBLICE SI COMUNICARE (STUDII MEDII)",
-    "company": "INSTITUTUL NAŢIONAL DE CERCETARE-DEZVOLTARE ÎN SUDURĂ ŞI ÎNCERCĂRI DE MATERIALE - ISIM TIMIŞOARA",
-    "location": [
-      "Timișoara, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-30T15:56:11.025Z",
-    "status": "scraped",
-    "tags": [
-      "comunicare scrisa",
-      "prezentare analitica"
+      "limba straina",
+      "educatie"
     ],
     "matchPercentage": 65,
-    "reason": "Asistent relații publice și comunicare este o poziție entry-level în domeniul comunicării, potrivită pentru competențele de redactare și comunicare în română, deși nu exploatează analiza filologică."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/profesor-de-limba-engleza-online",
-    "title": "PROFESOR DE LIMBA ENGLEZA ONLINE",
-    "company": "A &amp; C CONSULTING CENTRE SRL",
-    "location": [
-      "Remote, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-30T16:00:33.194Z",
-    "status": "scraped",
-    "tags": [
-      "limba straină",
-      "comunicare scrisa"
-    ],
-    "matchPercentage": 65,
-    "reason": "Predare online de limbă engleză intră în educație și folosește direct comunicarea în limba română și engleză, deși nu acoperă analiza filologică."
+    "reason": "Rol educational de predare/insistenta in limba germana, deci partial in sfera ta de studii lingvistice, dar nu foloseste analiza filologica a limbii romane."
   }
 ]
