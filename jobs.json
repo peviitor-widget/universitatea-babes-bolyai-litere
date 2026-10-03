@@ -1,20 +1,37 @@
 [
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/formator-pentru-instruirea-practica",
-    "title": "Formator pentru Instruirea Practică",
-    "company": "CENTRUL CULTURAL DE LIMBA ENGLEZA SHAKESPEARE SRL",
+    "url": "https://www.jobradar24.ro/anunt/video-creator-filmare-editare-8mg0wn",
+    "title": "VIDEO CREATOR — Filmare + Editare",
+    "company": "ECOBAT ENERGY S.R.L.",
     "location": [
-      "Bdul Carol I nr. 4, corp A, et.III, cam.306, 700505 IASI, Romania"
+      "Buftea, Romania"
     ],
     "salary": null,
-    "date": "2026-10-01T15:21:13.361Z",
+    "date": "2026-09-30T14:47:10.862Z",
     "status": "scraped",
     "tags": [
-      "comunicare orală",
-      "limbă străină"
+      "Editare",
+      "Comunicare"
     ],
-    "matchPercentage": 72,
-    "reason": "Formare practică la un centru cultural de limbă engleză, deci educație și practicare a limbii la nivel entry-level, deși nu vizează direct filologia română."
+    "matchPercentage": 75,
+    "reason": "Filmarea si editarea video sunt relevante partial pentru comunicare si media, cu nivel potrivit."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/video-editare",
+    "title": "Video editare",
+    "company": "STRATEGIC SRL",
+    "location": [
+      "Piata Unirii, Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-29T14:41:11.857Z",
+    "status": "scraped",
+    "tags": [
+      "Editare",
+      "Comunicare"
+    ],
+    "matchPercentage": 75,
+    "reason": "Editarea video se coreleaza partial cu competentele din editare, publicare si comunicare media."
   },
   {
     "url": "https://www.jobradar24.ro/anunt/interpreters-cultural-mediators-romanian-english-45m2v4",
@@ -27,44 +44,61 @@
     "date": "2026-09-30T14:46:31.343Z",
     "status": "scraped",
     "tags": [
-      "limbă străină",
-      "traducere"
+      "Limba straina",
+      "Traducere"
     ],
-    "matchPercentage": 68,
-    "reason": "Interpretare și mediere culturală română-engleză, bazată pe competențe lingvistice reale și la nivel entry-level, dar fără caracter academic."
+    "matchPercentage": 72,
+    "reason": "Interpretariat romana-engleza la nivel de traducator foloseste direct competentele de limba straina si comunicare, fara cerinta de seniority."
   },
   {
-    "url": "https://www.ejobs.ro/user/locuri-de-munca/interpreters-cultural-mediators-romanian-english/1989261",
-    "title": "Interpreters / Cultural Mediators - Romanian &amp; English",
-    "company": "VALOREM STATIO S.R.L.",
+    "url": "https://www.bestjobs.eu/loc-de-munca/angajam-creator-de-continut-video-foto-editare",
+    "title": "ANGAJĂM CREATOR DE CONTINUT VIDEO/FOTO/EDITARE",
+    "company": "AIRNOVA S.R.L.",
     "location": [
-      "Iași, Romania"
+      "Soseaua de Centura 2-4, Voluntari, Romania"
     ],
     "salary": null,
-    "date": "2026-09-28T16:38:10.029Z",
+    "date": "2026-10-01T15:14:29.191Z",
     "status": "scraped",
     "tags": [
-      "limbă străină",
-      "traducere"
+      "Editare",
+      "Comunicare"
     ],
-    "matchPercentage": 68,
-    "reason": "Interpretare și mediere culturală română-engleză, bazată pe competențe lingvistice reale și la nivel entry-level, dar fără caracter academic."
+    "matchPercentage": 70,
+    "reason": "Crearea si editarea de continut video se apropie partial de domeniul comunicare si media."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/asist-cooperare-educ-in-limba-germana-part-time",
-    "title": "Asist. Cooperare educ. in limba germana-part time",
-    "company": "GOETHE &amp; SCHILLER-DEUTSCHE SCHULE GMBH SRL",
+    "url": "https://www.bestjobs.eu/loc-de-munca/formator-pentru-instruirea-practica",
+    "title": "Formator pentru Instruirea Practică",
+    "company": "CENTRUL CULTURAL DE LIMBA ENGLEZA SHAKESPEARE SRL",
     "location": [
-      "Calea Dorobanti, Bucuresti, Romania"
+      "Bdul Carol I nr. 4, corp A, et.III, cam.306, 700505 IASI, Romania"
     ],
     "salary": null,
-    "date": "2026-10-01T15:28:40.706Z",
+    "date": "2026-10-01T15:21:13.361Z",
     "status": "scraped",
     "tags": [
-      "limba straina",
-      "educatie"
+      "Comunicare scrisa",
+      "Educatie si formare"
+    ],
+    "matchPercentage": 70,
+    "reason": "Formare practica de limba intr-un centru cultural: domeniu educatie si formare la nivel potrivit, desi accentul e pe predareEngleza, nu pe analiza filologica."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/marketing-content-specialist-7",
+    "title": "Marketing &amp; Content Specialist",
+    "company": "STOLNICU B.M. SRL",
+    "location": [
+      "Arad, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-02T14:51:00.058Z",
+    "status": "scraped",
+    "tags": [
+      "Comunicare",
+      "Editare"
     ],
     "matchPercentage": 65,
-    "reason": "Rol educational de predare/insistenta in limba germana, deci partial in sfera ta de studii lingvistice, dar nu foloseste analiza filologica a limbii romane."
+    "reason": "Content specialist se apropie partial de comunicare si media, dar are orientare de marketing."
   }
 ]
