@@ -1,37 +1,20 @@
 [
   {
-    "url": "https://www.jobradar24.ro/anunt/video-creator-filmare-editare-8mg0wn",
-    "title": "VIDEO CREATOR — Filmare + Editare",
-    "company": "ECOBAT ENERGY S.R.L.",
+    "url": "https://www.bestjobs.eu/loc-de-munca/traducator-limba-engleza-proiecte-educationale",
+    "title": "Traducător limba engleză – proiecte educaționale",
+    "company": "FUNDATIA PENTRU TINERET",
     "location": [
-      "Buftea, Romania"
+      "Remote, Romania"
     ],
     "salary": null,
-    "date": "2026-09-30T14:47:10.862Z",
+    "date": "2026-10-03T13:25:50.138Z",
     "status": "scraped",
     "tags": [
-      "Editare",
-      "Comunicare"
+      "traducere",
+      "comunicare scrisă"
     ],
-    "matchPercentage": 75,
-    "reason": "Filmarea si editarea video sunt relevante partial pentru comunicare si media, cu nivel potrivit."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/video-editare",
-    "title": "Video editare",
-    "company": "STRATEGIC SRL",
-    "location": [
-      "Piata Unirii, Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-29T14:41:11.857Z",
-    "status": "scraped",
-    "tags": [
-      "Editare",
-      "Comunicare"
-    ],
-    "matchPercentage": 75,
-    "reason": "Editarea video se coreleaza partial cu competentele din editare, publicare si comunicare media."
+    "matchPercentage": 95,
+    "reason": "Traducerea de texte folosește direct competența de utilizare a limbii străine în producerea și traducerea de texte."
   },
   {
     "url": "https://www.jobradar24.ro/anunt/interpreters-cultural-mediators-romanian-english-45m2v4",
@@ -41,31 +24,31 @@
       "Iași, Romania"
     ],
     "salary": null,
-    "date": "2026-09-30T14:46:31.343Z",
+    "date": "2026-10-03T13:22:33.249Z",
     "status": "scraped",
     "tags": [
-      "Limba straina",
-      "Traducere"
+      "traducere",
+      "comunicare orală"
     ],
-    "matchPercentage": 72,
-    "reason": "Interpretariat romana-engleza la nivel de traducator foloseste direct competentele de limba straina si comunicare, fara cerinta de seniority."
+    "matchPercentage": 95,
+    "reason": "Interpretariatul folosește direct competențele lingvistice și de comunicare orală între limbi."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/angajam-creator-de-continut-video-foto-editare",
-    "title": "ANGAJĂM CREATOR DE CONTINUT VIDEO/FOTO/EDITARE",
-    "company": "AIRNOVA S.R.L.",
+    "url": "https://www.ejobs.ro/user/locuri-de-munca/interpreters-cultural-mediators-romanian-english/1989261",
+    "title": "Interpreters / Cultural Mediators - Romanian &amp; English",
+    "company": "VALOREM STATIO S.R.L.",
     "location": [
-      "Soseaua de Centura 2-4, Voluntari, Romania"
+      "Iași, Romania"
     ],
     "salary": null,
-    "date": "2026-10-01T15:14:29.191Z",
+    "date": "2026-09-28T16:38:10.029Z",
     "status": "scraped",
     "tags": [
-      "Editare",
-      "Comunicare"
+      "traducere",
+      "comunicare orală"
     ],
-    "matchPercentage": 70,
-    "reason": "Crearea si editarea de continut video se apropie partial de domeniul comunicare si media."
+    "matchPercentage": 95,
+    "reason": "Identic cu interpretariatul - folosește direct traducerea și comunicarea interlingvistică."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/formator-pentru-instruirea-practica",
@@ -78,27 +61,95 @@
     "date": "2026-10-01T15:21:13.361Z",
     "status": "scraped",
     "tags": [
-      "Comunicare scrisa",
-      "Educatie si formare"
+      "literatură",
+      "educație"
     ],
-    "matchPercentage": 70,
-    "reason": "Formare practica de limba intr-un centru cultural: domeniu educatie si formare la nivel potrivit, desi accentul e pe predareEngleza, nu pe analiza filologica."
+    "matchPercentage": 90,
+    "reason": "Formarea cu referire la Shakespeare combină educația cu literatura, potrivit domeniului Educație și Literatură."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/marketing-content-specialist-7",
-    "title": "Marketing &amp; Content Specialist",
-    "company": "STOLNICU B.M. SRL",
+    "url": "https://www.bestjobs.eu/loc-de-munca/educatoare-profesor-limba-germana-14",
+    "title": "Educatoare/ profesor/ limba germana",
+    "company": "DAICHENDT INGRID GABRIELA &quot;GRADINITA GERMANA&quot; PF",
     "location": [
-      "Arad, Romania"
+      "Str.Dristorului nr.67 sector 3, Bucuresti, Municipiul Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-10-02T14:51:00.058Z",
+    "date": "2026-10-03T13:25:39.695Z",
     "status": "scraped",
     "tags": [
-      "Comunicare",
-      "Editare"
+      "Limba străină",
+      "Comunicare orală"
+    ],
+    "matchPercentage": 90,
+    "reason": "Activitatea didactică în limba germană corespunde domeniului Educație și formare, valorificând utilizarea limbii străine și comunicarea."
+  },
+  {
+    "url": "https://multijobs.ro/job/invatator-educator-pentru-scoala-gimnaziala/1714",
+    "title": "Învățător/Educator pentru Școală Gimnazială",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Otopeni, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-03T13:26:06.386Z",
+    "status": "scraped",
+    "tags": [
+      "Comunicare orală",
+      "Prezentare analitică"
+    ],
+    "matchPercentage": 85,
+    "reason": "Rolul de educator se încadrează direct în domeniul Educație și formare, folosind competențe de comunicare și predare."
+  },
+  {
+    "url": "https://multijobs.ro/job/content-moderator-bucuresti/5439",
+    "title": "Content Moderator – București",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-03T13:23:54.301Z",
+    "status": "scraped",
+    "tags": [
+      "analiză semantică",
+      "comunicare scrisă"
+    ],
+    "matchPercentage": 70,
+    "reason": "Folosește analiza lingvistică a textelor, dar sarcinile sunt mai mult de moderare decât de specialitate filologică."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/junior-digital-content-marketing-specialist-2",
+    "title": "Junior Digital Content Marketing Specialist",
+    "company": "AQUATEC PISCINE SRL",
+    "location": [
+      "București, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-03T13:24:41.776Z",
+    "status": "scraped",
+    "tags": [
+      "editare",
+      " comunicare"
+    ],
+    "matchPercentage": 68,
+    "reason": "Conținut digital și marketing: poate implica redactare și editare de texte în română, dar rolul e predominant comercial."
+  },
+  {
+    "url": "https://www.ejobs.ro/user/locuri-de-munca/creative-strategist-content-producer/1990420",
+    "title": "Creative Strategist &amp; Content Producer",
+    "company": "PEAK TOYS DISTRIBUTION SRL",
+    "location": [
+      "Remote, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-03T13:23:53.035Z",
+    "status": "scraped",
+    "tags": [
+      "comunicare scrisă",
+      "analiză stilistică"
     ],
     "matchPercentage": 65,
-    "reason": "Content specialist se apropie partial de comunicare si media, dar are orientare de marketing."
+    "reason": "Include elemente creative și de scriere a scripturilor, dar predomină producția foto-video și marketingul."
   }
 ]
