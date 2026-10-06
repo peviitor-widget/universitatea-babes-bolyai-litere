@@ -1,20 +1,37 @@
 [
   {
-    "url": "https://crosswork.sincron.biz/jobs/details/741/junior-news-editor",
-    "title": "Junior News Editor",
-    "company": "CROSS WORK S.R.L.",
+    "url": "https://www.jobradar24.ro/anunt/interpreters-cultural-mediators-romanian-english-45m2v4",
+    "title": "Interpreters / Cultural Mediators - Romanian &amp; English",
+    "company": "VALOREM STATIO S.R.L.",
     "location": [
-      "all, Romania"
+      "Iași, Romania"
     ],
     "salary": null,
-    "date": "2026-10-04T14:06:59.641Z",
+    "date": "2026-10-05T17:00:35.878Z",
     "status": "scraped",
     "tags": [
-      "editare publicare",
-      "comunicare scrisa"
+      "Limbi străine",
+      "Traducere"
     ],
-    "matchPercentage": 75,
-    "reason": "Junior news editor presupune redactare, editare și publicare de conținut, deci editare și comunicare, deși domeniul tematic este fintech și se cere experiență editorială anterioară."
+    "matchPercentage": 78,
+    "reason": "Interpretariatul română-engleză folosește direct competența de producere și traducere de texte în limbi străine, la nivel fără experiență obligatorie."
+  },
+  {
+    "url": "https://www.ejobs.ro/user/locuri-de-munca/interpreters-cultural-mediators-romanian-english/1989261",
+    "title": "Interpreters / Cultural Mediators - Romanian &amp; English",
+    "company": "VALOREM STATIO S.R.L.",
+    "location": [
+      "Iași, Romania"
+    ],
+    "salary": null,
+    "date": "2026-09-28T16:38:10.029Z",
+    "status": "scraped",
+    "tags": [
+      "Limbi străine",
+      "Traducere"
+    ],
+    "matchPercentage": 78,
+    "reason": "Interpretariatul română-engleză folosește direct competența de producere și traducere de texte în limbi străine, la nivel fără experiență obligatorie."
   },
   {
     "url": "https://www.ejobs.ro/user/locuri-de-munca/profesor-mediator-colaborare/1990927",
@@ -24,30 +41,30 @@
       "Remote, Romania"
     ],
     "salary": null,
-    "date": "2026-10-04T13:48:26.841Z",
+    "date": "2026-10-05T16:51:40.566Z",
     "status": "scraped",
     "tags": [
-      "analiza sintactica",
-      "analiza morfosintactica"
+      "Limba română",
+      "Limbi străine"
     ],
-    "matchPercentage": 75,
-    "reason": "Colaborare de meditatii la limba romana e entry-level si foloseste direct analiza morfosintactica si sintaxa limbii romane."
+    "matchPercentage": 70,
+    "reason": "Meditațiile online la Limba Română și limbi străine aplică direct cunoștințele de specialitate, fiind deschise studenților și absolvenților."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/profesor-limba-engleza-168",
-    "title": "Profesor limba engleza",
-    "company": "OANA &amp; ANCA SRL",
+    "url": "https://multijobs.ro/job/content-moderator-legal-review-german-english/5648",
+    "title": "Content Moderator – Legal Review | German &amp; English",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
     "location": [
-      "Remote, Romania"
+      "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-10-04T14:11:33.202Z",
+    "date": "2026-10-05T17:07:50.395Z",
     "status": "scraped",
     "tags": [
-      "limba straina",
-      "analiza sintactica"
+      "Limbi străine",
+      "Analiză de text"
     ],
-    "matchPercentage": 72,
-    "reason": "Predarea limbii engleze se bazeaza pe competentele de comunicare, didactica a limbii si utilizarea limbii straine, cu nivel intrare."
+    "matchPercentage": 64,
+    "reason": "Revizuirea de conținut în germană și engleză cere precizie lingvistică avansată în limbi străine, o competență de specialitate, la nivel entry."
   }
 ]
