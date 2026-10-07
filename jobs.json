@@ -7,31 +7,14 @@
       "Iași, Romania"
     ],
     "salary": null,
-    "date": "2026-10-05T17:00:35.878Z",
+    "date": "2026-10-06T14:47:07.137Z",
     "status": "scraped",
     "tags": [
-      "Limbi străine",
-      "Traducere"
+      "limbă străină",
+      "comunicare orală"
     ],
     "matchPercentage": 78,
-    "reason": "Interpretariatul română-engleză folosește direct competența de producere și traducere de texte în limbi străine, la nivel fără experiență obligatorie."
-  },
-  {
-    "url": "https://www.ejobs.ro/user/locuri-de-munca/interpreters-cultural-mediators-romanian-english/1989261",
-    "title": "Interpreters / Cultural Mediators - Romanian &amp; English",
-    "company": "VALOREM STATIO S.R.L.",
-    "location": [
-      "Iași, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-28T16:38:10.029Z",
-    "status": "scraped",
-    "tags": [
-      "Limbi străine",
-      "Traducere"
-    ],
-    "matchPercentage": 78,
-    "reason": "Interpretariatul română-engleză folosește direct competența de producere și traducere de texte în limbi străine, la nivel fără experiență obligatorie."
+    "reason": "Interpretariat română-engleză folosește direct competența de utilizare a unei limbi străine în producerea de texte, la nivel entry."
   },
   {
     "url": "https://www.ejobs.ro/user/locuri-de-munca/profesor-mediator-colaborare/1990927",
@@ -44,27 +27,77 @@
     "date": "2026-10-05T16:51:40.566Z",
     "status": "scraped",
     "tags": [
-      "Limba română",
-      "Limbi străine"
+      "Comunicare scrisă",
+      "Analiză morfologică"
     ],
-    "matchPercentage": 70,
-    "reason": "Meditațiile online la Limba Română și limbi străine aplică direct cunoștințele de specialitate, fiind deschise studenților și absolvenților."
+    "matchPercentage": 72,
+    "reason": "Meditații la Limba Română pentru elevi, deschis studenților și absolvenților, folosind direct cunoștințele lingvistice."
   },
   {
-    "url": "https://multijobs.ro/job/content-moderator-legal-review-german-english/5648",
-    "title": "Content Moderator – Legal Review | German &amp; English",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3408037",
+    "title": "SECRETARA PRELUCRARE TEXTE",
+    "company": "KRONSTEF SRL",
     "location": [
-      "Bucuresti, Romania"
+      "Municipiul Targu Jiu, Romania"
     ],
     "salary": null,
-    "date": "2026-10-05T17:07:50.395Z",
+    "date": "2026-10-06T15:00:36.467Z",
     "status": "scraped",
     "tags": [
-      "Limbi străine",
-      "Analiză de text"
+      "Comunicare scrisă",
+      "Analiză ortografică"
     ],
-    "matchPercentage": 64,
-    "reason": "Revizuirea de conținut în germană și engleză cere precizie lingvistică avansată în limbi străine, o competență de specialitate, la nivel entry."
+    "matchPercentage": 70,
+    "reason": "Prelucrarea și redactarea de texte folosește direct competențele de ortografie și comunicare scrisă, la nivel entry-level."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/specialist-technical-writer",
+    "title": "Specialist Technical Writer",
+    "company": "LP HUISKORPORATION S.R.L.",
+    "location": [
+      "Oradea, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-06T15:06:49.936Z",
+    "status": "scraped",
+    "tags": [
+      "Comunicare scrisă",
+      "limbă străină"
+    ],
+    "matchPercentage": 65,
+    "reason": "Technical writing presupune redactarea și editarea de texte într-o limbă străină, o competență de bază din planul de învățământ."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/profesor-de-limba-engleza-online",
+    "title": "PROFESOR DE LIMBA ENGLEZA ONLINE",
+    "company": "A &amp; C CONSULTING CENTRE SRL",
+    "location": [
+      "Remote, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-06T15:07:30.196Z",
+    "status": "scraped",
+    "tags": [
+      "limbă străină",
+      "educație"
+    ],
+    "matchPercentage": 63,
+    "reason": "Predarea limbii engleze online intră în domeniul educație și formare și folosește direct competența de utilizare a unei limbi străine moderne."
+  },
+  {
+    "url": "https://www.ejobs.ro/user/locuri-de-munca/marketing-specialist-craiova-brand-social-media-content/1988094",
+    "title": "Marketing Specialist Craiova | Brand, Social Media &amp; Content",
+    "company": "EVOBRAND SRL",
+    "location": [
+      "Craiova, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-06T15:08:26.479Z",
+    "status": "scraped",
+    "tags": [
+      "Comunicare scrisă"
+    ],
+    "matchPercentage": 62,
+    "reason": "Scrierea de texte pentru postări și campanii folosește direct competența de comunicare scrisă, iar nivelul de ~1 an experiență este potrivit."
   }
 ]
