@@ -1,5 +1,22 @@
 [
   {
+    "url": "https://www.bestjobs.eu/loc-de-munca/traducator-limba-engleza-proiecte-educationale",
+    "title": "Traducător limba engleză – proiecte educaționale",
+    "company": "FUNDATIA PENTRU TINERET",
+    "location": [
+      "Remote, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-07T15:27:21.885Z",
+    "status": "scraped",
+    "tags": [
+      "Limbi străine",
+      "Comunicare scrisă"
+    ],
+    "matchPercentage": 86,
+    "reason": "Traducerea în engleză pentru proiecte educaționale folosește direct competența de traducere și limba străină."
+  },
+  {
     "url": "https://www.jobradar24.ro/anunt/interpreters-cultural-mediators-romanian-english-45m2v4",
     "title": "Interpreters / Cultural Mediators - Romanian &amp; English",
     "company": "VALOREM STATIO S.R.L.",
@@ -7,14 +24,14 @@
       "Iași, Romania"
     ],
     "salary": null,
-    "date": "2026-10-06T14:47:07.137Z",
+    "date": "2026-10-07T15:19:22.366Z",
     "status": "scraped",
     "tags": [
-      "limbă străină",
-      "comunicare orală"
+      "Limbi străine",
+      "Comunicare orală"
     ],
-    "matchPercentage": 78,
-    "reason": "Interpretariat română-engleză folosește direct competența de utilizare a unei limbi străine în producerea de texte, la nivel entry."
+    "matchPercentage": 82,
+    "reason": "Interpretariat română-engleză folosește direct competența de limbă străină și comunicare orală."
   },
   {
     "url": "https://www.ejobs.ro/user/locuri-de-munca/profesor-mediator-colaborare/1990927",
@@ -27,11 +44,11 @@
     "date": "2026-10-05T16:51:40.566Z",
     "status": "scraped",
     "tags": [
-      "Comunicare scrisă",
-      "Analiză morfologică"
+      "Analiză morfologică",
+      "Comunicare scrisă"
     ],
-    "matchPercentage": 72,
-    "reason": "Meditații la Limba Română pentru elevi, deschis studenților și absolvenților, folosind direct cunoștințele lingvistice."
+    "matchPercentage": 78,
+    "reason": "Meditații la limba română pentru elevi folosesc direct competențele de analiză lingvistică și comunicare, în educație."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3408037",
@@ -41,63 +58,96 @@
       "Municipiul Targu Jiu, Romania"
     ],
     "salary": null,
-    "date": "2026-10-06T15:00:36.467Z",
+    "date": "2026-10-07T15:20:20.635Z",
     "status": "scraped",
     "tags": [
       "Comunicare scrisă",
       "Analiză ortografică"
     ],
-    "matchPercentage": 70,
-    "reason": "Prelucrarea și redactarea de texte folosește direct competențele de ortografie și comunicare scrisă, la nivel entry-level."
+    "matchPercentage": 72,
+    "reason": "Postul presupune redactare de texte în limba română cu atenție la gramatică, ortografie și formulare profesională, ceea ce folosește direct competențele lingvistice, la nivel entry cu puțină experiență."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/specialist-technical-writer",
-    "title": "Specialist Technical Writer",
-    "company": "LP HUISKORPORATION S.R.L.",
+    "url": "https://www.bestjobs.eu/loc-de-munca/formator-pentru-instruirea-practica",
+    "title": "Formator pentru Instruirea Practica",
+    "company": "CENTRUL CULTURAL DE LIMBA ENGLEZA SHAKESPEARE SRL",
     "location": [
-      "Oradea, Romania"
+      "IASI, Romania"
     ],
     "salary": null,
-    "date": "2026-10-06T15:06:49.936Z",
+    "date": "2026-10-07T15:25:08.219Z",
+    "status": "scraped",
+    "tags": [
+      "Limbi străine",
+      "Comunicare scrisă"
+    ],
+    "matchPercentage": 72,
+    "reason": "Rol de formator într-un centru cultural de limbi, în domeniul educației și formării."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/educatoare-profesor-limba-germana-after-school-4",
+    "title": "Educatoare/Profesor limba germană After School",
+    "company": "GRADINITA MELBA SRL",
+    "location": [
+      "Strada Paris 57, Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-07T15:27:19.482Z",
+    "status": "scraped",
+    "tags": [
+      "limba germană",
+      "educație"
+    ],
+    "matchPercentage": 70,
+    "reason": "Predare limbă germană în context educațional, potrivit cu domeniul educație și competența de limbă străină."
+  },
+  {
+    "url": "https://updivision.com/careers/content-creator-with-an-eye-for-ux-design",
+    "title": "Content Creator with an eye for UX design",
+    "company": "UPDIVISION SRL",
+    "location": [
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-07T15:24:09.921Z",
     "status": "scraped",
     "tags": [
       "Comunicare scrisă",
-      "limbă străină"
+      "Analiză stilistică"
     ],
-    "matchPercentage": 65,
-    "reason": "Technical writing presupune redactarea și editarea de texte într-o limbă străină, o competență de bază din planul de învățământ."
+    "matchPercentage": 64,
+    "reason": "Scrierea de conținut e competența principală, cu un plus de UX care nu e eliminatoriu."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/profesor-de-limba-engleza-online",
-    "title": "PROFESOR DE LIMBA ENGLEZA ONLINE",
-    "company": "A &amp; C CONSULTING CENTRE SRL",
+    "url": "https://www.bestjobs.eu/loc-de-munca/junior-digital-content-marketing-specialist-2",
+    "title": "Junior Digital Content Marketing Specialist",
+    "company": "AQUATEC PISCINE SRL",
     "location": [
-      "Remote, Romania"
+      "București, Romania"
     ],
     "salary": null,
-    "date": "2026-10-06T15:07:30.196Z",
+    "date": "2026-10-07T15:24:20.811Z",
     "status": "scraped",
     "tags": [
-      "limbă străină",
-      "educație"
+      "Comunicare scrisă"
     ],
     "matchPercentage": 63,
-    "reason": "Predarea limbii engleze online intră în domeniul educație și formare și folosește direct competența de utilizare a unei limbi străine moderne."
+    "reason": "Nivel junior, iar crearea de conținut textual intră în zona de comunicare și media."
   },
   {
-    "url": "https://www.ejobs.ro/user/locuri-de-munca/marketing-specialist-craiova-brand-social-media-content/1988094",
-    "title": "Marketing Specialist Craiova | Brand, Social Media &amp; Content",
-    "company": "EVOBRAND SRL",
+    "url": "https://www.bestjobs.eu/loc-de-munca/social-media-content-creator-45",
+    "title": "Social Media &amp; Content Creator",
+    "company": "PADEL HAUS S.R.L.",
     "location": [
-      "Craiova, Romania"
+      "Padel Haus București, Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-10-06T15:08:26.479Z",
+    "date": "2026-10-07T15:24:18.892Z",
     "status": "scraped",
     "tags": [
       "Comunicare scrisă"
     ],
     "matchPercentage": 62,
-    "reason": "Scrierea de texte pentru postări și campanii folosește direct competența de comunicare scrisă, iar nivelul de ~1 an experiență este potrivit."
+    "reason": "Rol de creator de conținut textual la nivel de intrare, potrivit pentru abilitățile de scriere."
   }
 ]
