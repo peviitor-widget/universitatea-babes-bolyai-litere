@@ -1,5 +1,39 @@
 [
   {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3408037",
+    "title": "SECRETARA PRELUCRARE TEXTE",
+    "company": "KRONSTEF SRL",
+    "location": [
+      "Municipiul Targu Jiu, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-07T15:20:20.635Z",
+    "status": "scraped",
+    "tags": [
+      "Ortografie",
+      "Comunicare scrisă"
+    ],
+    "matchPercentage": 90,
+    "reason": "Prelucrarea textelor și atenția la gramatică, ortografie și redactare corespund direct competențelor de specialitate."
+  },
+  {
+    "url": "https://alliancewd.wd3.myworkdayjobs.com/ro-RO/renault-group-careers/job/Bucuresti/XMLNAME--Internship--Specialist-comunicare-intern--F-M-_JOBREQ_50282102",
+    "title": "Internship Specialist comunicare internă (F/M)",
+    "company": "RENAULT SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-08T15:26:43.868Z",
+    "status": "scraped",
+    "tags": [
+      "Comunicare scrisă",
+      "Limbă română"
+    ],
+    "matchPercentage": 85,
+    "reason": "Internship de comunicare care cere redactarea de articole și materiale, acceptând explicit studenți la Litere."
+  },
+  {
     "url": "https://www.bestjobs.eu/loc-de-munca/traducator-limba-engleza-proiecte-educationale",
     "title": "Traducător limba engleză – proiecte educaționale",
     "company": "FUNDATIA PENTRU TINERET",
@@ -7,14 +41,14 @@
       "Remote, Romania"
     ],
     "salary": null,
-    "date": "2026-10-07T15:27:21.885Z",
+    "date": "2026-10-08T15:27:17.819Z",
     "status": "scraped",
     "tags": [
-      "Limbi străine",
-      "Comunicare scrisă"
+      "traducere",
+      "limbă străină"
     ],
-    "matchPercentage": 86,
-    "reason": "Traducerea în engleză pentru proiecte educaționale folosește direct competența de traducere și limba străină."
+    "matchPercentage": 85,
+    "reason": "Traducere engleză pentru proiecte educaționale folosește direct competența de traducere și limba străină, pe un proiect la nivel de intrare."
   },
   {
     "url": "https://www.jobradar24.ro/anunt/interpreters-cultural-mediators-romanian-english-45m2v4",
@@ -27,11 +61,11 @@
     "date": "2026-10-07T15:19:22.366Z",
     "status": "scraped",
     "tags": [
-      "Limbi străine",
-      "Comunicare orală"
+      "limbă străină",
+      "comunicare orală"
     ],
     "matchPercentage": 82,
-    "reason": "Interpretariat română-engleză folosește direct competența de limbă străină și comunicare orală."
+    "reason": "Interpretariat RO-EN folosește direct competența lingvistică și de limbă străină, cu experiență anterioară opțională."
   },
   {
     "url": "https://www.ejobs.ro/user/locuri-de-munca/profesor-mediator-colaborare/1990927",
@@ -44,28 +78,45 @@
     "date": "2026-10-05T16:51:40.566Z",
     "status": "scraped",
     "tags": [
-      "Analiză morfologică",
-      "Comunicare scrisă"
-    ],
-    "matchPercentage": 78,
-    "reason": "Meditații la limba română pentru elevi folosesc direct competențele de analiză lingvistică și comunicare, în educație."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3408037",
-    "title": "SECRETARA PRELUCRARE TEXTE",
-    "company": "KRONSTEF SRL",
-    "location": [
-      "Municipiul Targu Jiu, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-07T15:20:20.635Z",
-    "status": "scraped",
-    "tags": [
-      "Comunicare scrisă",
-      "Analiză ortografică"
+      "comunicare orală",
+      "limbă străină"
     ],
     "matchPercentage": 72,
-    "reason": "Postul presupune redactare de texte în limba română cu atenție la gramatică, ortografie și formulare profesională, ceea ce folosește direct competențele lingvistice, la nivel entry cu puțină experiență."
+    "reason": "Meditații online, inclusiv limba română și limbi străine — educație și formare cu competențe lingvistice, colaborare flexibilă pentru studenți."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272614/Catalyst-Solutions/Content-Creator---Social-Media",
+    "title": "Content Creator - Social Media",
+    "company": "CATALYST SOLUTIONS SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-08T15:17:13.065Z",
+    "status": "scraped",
+    "tags": [
+      "comunicare scrisă",
+      "analiză stilistică"
+    ],
+    "matchPercentage": 65,
+    "reason": "Creare de conținut pentru o platformă media de cariere, domeniul comunicare/media se potrivește parțial la nivel entry."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/content-creator-44",
+    "title": "Content Creator",
+    "company": "MEDIA SRL",
+    "location": [
+      "Craiova, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-08T15:16:08.241Z",
+    "status": "scraped",
+    "tags": [
+      "comunicare scrisă",
+      "analiză stilistică"
+    ],
+    "matchPercentage": 65,
+    "reason": "Content Creator la o firmă de media, sarcinile de scriere de conținut se potrivesc parțial la nivel entry."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/formator-pentru-instruirea-practica",
@@ -78,76 +129,27 @@
     "date": "2026-10-07T15:25:08.219Z",
     "status": "scraped",
     "tags": [
-      "Limbi străine",
-      "Comunicare scrisă"
+      "limbă străină",
+      "comunicare orală"
     ],
-    "matchPercentage": 72,
-    "reason": "Rol de formator într-un centru cultural de limbi, în domeniul educației și formării."
+    "matchPercentage": 65,
+    "reason": "Formator la un centru cultural de limba engleză — domeniul educație/formare și limba străină se potrivesc, nivel de intrare."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/educatoare-profesor-limba-germana-after-school-4",
-    "title": "Educatoare/Profesor limba germană After School",
-    "company": "GRADINITA MELBA SRL",
+    "url": "https://www.bestjobs.eu/loc-de-munca/content-social-media-specialist-2",
+    "title": "Content &amp; Social Media Specialist",
+    "company": "ASTRA FILM S.R.L.",
     "location": [
-      "Strada Paris 57, Bucuresti, Romania"
+      "Pipera, Voluntari, Romania"
     ],
     "salary": null,
-    "date": "2026-10-07T15:27:19.482Z",
+    "date": "2026-10-08T15:23:18.207Z",
     "status": "scraped",
     "tags": [
-      "limba germană",
-      "educație"
-    ],
-    "matchPercentage": 70,
-    "reason": "Predare limbă germană în context educațional, potrivit cu domeniul educație și competența de limbă străină."
-  },
-  {
-    "url": "https://updivision.com/careers/content-creator-with-an-eye-for-ux-design",
-    "title": "Content Creator with an eye for UX design",
-    "company": "UPDIVISION SRL",
-    "location": [
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-07T15:24:09.921Z",
-    "status": "scraped",
-    "tags": [
-      "Comunicare scrisă",
-      "Analiză stilistică"
-    ],
-    "matchPercentage": 64,
-    "reason": "Scrierea de conținut e competența principală, cu un plus de UX care nu e eliminatoriu."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/junior-digital-content-marketing-specialist-2",
-    "title": "Junior Digital Content Marketing Specialist",
-    "company": "AQUATEC PISCINE SRL",
-    "location": [
-      "București, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-07T15:24:20.811Z",
-    "status": "scraped",
-    "tags": [
-      "Comunicare scrisă"
-    ],
-    "matchPercentage": 63,
-    "reason": "Nivel junior, iar crearea de conținut textual intră în zona de comunicare și media."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/social-media-content-creator-45",
-    "title": "Social Media &amp; Content Creator",
-    "company": "PADEL HAUS S.R.L.",
-    "location": [
-      "Padel Haus București, Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-07T15:24:18.892Z",
-    "status": "scraped",
-    "tags": [
-      "Comunicare scrisă"
+      "comunicare scrisă",
+      "analiză stilistică"
     ],
     "matchPercentage": 62,
-    "reason": "Rol de creator de conținut textual la nivel de intrare, potrivit pentru abilitățile de scriere."
+    "reason": "Conținut editorial pentru o companie de film, domeniul media/cultural se potrivește parțial, nivel entry-level."
   }
 ]
