@@ -1,73 +1,5 @@
 [
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3408037",
-    "title": "SECRETARA PRELUCRARE TEXTE",
-    "company": "KRONSTEF SRL",
-    "location": [
-      "Municipiul Targu Jiu, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-07T15:20:20.635Z",
-    "status": "scraped",
-    "tags": [
-      "Ortografie",
-      "Comunicare scrisă"
-    ],
-    "matchPercentage": 90,
-    "reason": "Prelucrarea textelor și atenția la gramatică, ortografie și redactare corespund direct competențelor de specialitate."
-  },
-  {
-    "url": "https://alliancewd.wd3.myworkdayjobs.com/ro-RO/renault-group-careers/job/Bucuresti/XMLNAME--Internship--Specialist-comunicare-intern--F-M-_JOBREQ_50282102",
-    "title": "Internship Specialist comunicare internă (F/M)",
-    "company": "RENAULT SRL",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-08T15:26:43.868Z",
-    "status": "scraped",
-    "tags": [
-      "Comunicare scrisă",
-      "Limbă română"
-    ],
-    "matchPercentage": 85,
-    "reason": "Internship de comunicare care cere redactarea de articole și materiale, acceptând explicit studenți la Litere."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/traducator-limba-engleza-proiecte-educationale",
-    "title": "Traducător limba engleză – proiecte educaționale",
-    "company": "FUNDATIA PENTRU TINERET",
-    "location": [
-      "Remote, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-08T15:27:17.819Z",
-    "status": "scraped",
-    "tags": [
-      "traducere",
-      "limbă străină"
-    ],
-    "matchPercentage": 85,
-    "reason": "Traducere engleză pentru proiecte educaționale folosește direct competența de traducere și limba străină, pe un proiect la nivel de intrare."
-  },
-  {
-    "url": "https://www.jobradar24.ro/anunt/interpreters-cultural-mediators-romanian-english-45m2v4",
-    "title": "Interpreters / Cultural Mediators - Romanian &amp; English",
-    "company": "VALOREM STATIO S.R.L.",
-    "location": [
-      "Iași, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-07T15:19:22.366Z",
-    "status": "scraped",
-    "tags": [
-      "limbă străină",
-      "comunicare orală"
-    ],
-    "matchPercentage": 82,
-    "reason": "Interpretariat RO-EN folosește direct competența lingvistică și de limbă străină, cu experiență anterioară opțională."
-  },
-  {
     "url": "https://www.ejobs.ro/user/locuri-de-munca/profesor-mediator-colaborare/1990927",
     "title": "Profesor / Mediator (Colaborare)",
     "company": "IVANSOFT S.R.L.",
@@ -78,45 +10,96 @@
     "date": "2026-10-05T16:51:40.566Z",
     "status": "scraped",
     "tags": [
-      "comunicare orală",
-      "limbă străină"
+      "limba română",
+      "literatură"
     ],
-    "matchPercentage": 72,
-    "reason": "Meditații online, inclusiv limba română și limbi străine — educație și formare cu competențe lingvistice, colaborare flexibilă pentru studenți."
+    "matchPercentage": 80,
+    "reason": "Profesor/mediator inclusiv Limba Română - predare directă în domeniul filologic, deschis studenților și absolvenților."
   },
   {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272614/Catalyst-Solutions/Content-Creator---Social-Media",
-    "title": "Content Creator - Social Media",
-    "company": "CATALYST SOLUTIONS SRL",
+    "url": "https://www.jobradar24.ro/anunt/interpreters-cultural-mediators-romanian-english-45m2v4",
+    "title": "Interpreters / Cultural Mediators - Romanian &amp; English",
+    "company": "VALOREM STATIO S.R.L.",
+    "location": [
+      "Iași, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-09T15:20:57.779Z",
+    "status": "scraped",
+    "tags": [
+      "traducere",
+      "limbă străină"
+    ],
+    "matchPercentage": 78,
+    "reason": "Interpret/traducător română-engleză, folosește direct competențele lingvistice și de traducere."
+  },
+  {
+    "url": "https://crosswork.sincron.biz/jobs/details/741/junior-news-editor",
+    "title": "Junior News Editor",
+    "company": "CROSS WORK S.R.L.",
+    "location": [
+      "all, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-09T15:23:09.636Z",
+    "status": "scraped",
+    "tags": [
+      "Comunicare scrisă",
+      "Limbi străine"
+    ],
+    "matchPercentage": 76,
+    "reason": "Junior news editor presupune redactare, editare si revizuire de continut, folosind scrierea si cunoasterea unei limbi straine."
+  },
+  {
+    "url": "https://alliancewd.wd3.myworkdayjobs.com/ro-RO/renault-group-careers/job/Bucuresti/XMLNAME--Internship--Specialist-comunicare-intern--F-M-_JOBREQ_50282102",
+    "title": "Internship Specialist comunicare internă (F/M)",
+    "company": "RENAULT SRL",
     "location": [
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-10-08T15:17:13.065Z",
+    "date": "2026-10-09T15:29:48.108Z",
     "status": "scraped",
     "tags": [
       "comunicare scrisă",
-      "analiză stilistică"
+      "editare"
     ],
-    "matchPercentage": 65,
-    "reason": "Creare de conținut pentru o platformă media de cariere, domeniul comunicare/media se potrivește parțial la nivel entry."
+    "matchPercentage": 72,
+    "reason": "Internship de comunicare internă cu redactare de articole, newsletter și conținut, care acceptă absolvenți de Litere."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/content-creator-44",
-    "title": "Content Creator",
-    "company": "MEDIA SRL",
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/271837/Aleph-News/Editor-online-Stiri",
+    "title": "Editor online Stiri",
+    "company": "ALEPH MEDIA S.R.L.",
     "location": [
-      "Craiova, Romania"
+      "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-10-08T15:16:08.241Z",
+    "date": "2026-10-09T15:25:08.883Z",
     "status": "scraped",
     "tags": [
-      "comunicare scrisă",
-      "analiză stilistică"
+      "Comunicare scrisă",
+      "Analiză stilistică"
     ],
-    "matchPercentage": 65,
-    "reason": "Content Creator la o firmă de media, sarcinile de scriere de conținut se potrivesc parțial la nivel entry."
+    "matchPercentage": 72,
+    "reason": "Editor online stiri presupune redactare si editare de text, potrivit pentru competentele de comunicare scrisa si analiza stilistica."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/270047/Aleph-News/Editor/Jurnalist-Aleph-Business",
+    "title": "Editor/Jurnalist Aleph Business",
+    "company": "ALEPH MEDIA S.R.L.",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-09T15:25:08.883Z",
+    "status": "scraped",
+    "tags": [
+      "Comunicare scrisă",
+      "Analiză stilistică"
+    ],
+    "matchPercentage": 70,
+    "reason": "Editor/jurnalist presupune producere de text redactional, relevant pentru competentele lingvistice si de comunicare scrisa."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/formator-pentru-instruirea-practica",
@@ -126,30 +109,64 @@
       "IASI, Romania"
     ],
     "salary": null,
-    "date": "2026-10-07T15:25:08.219Z",
+    "date": "2026-10-09T15:00:10.962Z",
     "status": "scraped",
     "tags": [
-      "limbă străină",
-      "comunicare orală"
+      "comunicare orală",
+      "limbă străină"
     ],
-    "matchPercentage": 65,
-    "reason": "Formator la un centru cultural de limba engleză — domeniul educație/formare și limba străină se potrivesc, nivel de intrare."
+    "matchPercentage": 67,
+    "reason": "Formator/instruire practică în domeniul educație și formare, potrivit nivelului de început."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/content-social-media-specialist-2",
-    "title": "Content &amp; Social Media Specialist",
-    "company": "ASTRA FILM S.R.L.",
+    "url": "https://multijobs.ro/job/junior-content-creator/2266",
+    "title": "Junior Content Creator",
+    "company": "ADVICE DIGITAL S.R.L.",
     "location": [
-      "Pipera, Voluntari, Romania"
+      "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-10-08T15:23:18.207Z",
+    "date": "2026-10-09T15:18:08.685Z",
+    "status": "scraped",
+    "tags": [
+      "comunicare scrisă",
+      "analiză stilistică"
+    ],
+    "matchPercentage": 65,
+    "reason": "Redactare de conținut scris în limba română, nivel junior, potrivire parțială cu comunicare și media."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/content-creator-44",
+    "title": "Content Creator",
+    "company": "MEDIA SRL",
+    "location": [
+      "Craiova, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-09T15:12:58.760Z",
     "status": "scraped",
     "tags": [
       "comunicare scrisă",
       "analiză stilistică"
     ],
     "matchPercentage": 62,
-    "reason": "Conținut editorial pentru o companie de film, domeniul media/cultural se potrivește parțial, nivel entry-level."
+    "reason": "Creare de conținut scris redacțional, nivel de început, domeniu comunicare și media."
+  },
+  {
+    "url": "https://qubiz.com/careers/content-marketing-specialist",
+    "title": "Content Marketing Specialist",
+    "company": "QUBIZ SRL",
+    "location": [
+      "Cluj-Napoca,Oradea, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-09T15:17:31.085Z",
+    "status": "scraped",
+    "tags": [
+      "comunicare scrisă",
+      "analiză stilistică"
+    ],
+    "matchPercentage": 60,
+    "reason": "Creare de conținut editorial pe blog/site, folosește redactarea și analiza stilistică."
   }
 ]
