@@ -1,5 +1,22 @@
 [
   {
+    "url": "https://www.jobradar24.ro/anunt/interpreters-cultural-mediators-romanian-english-45m2v4",
+    "title": "Interpreters / Cultural Mediators - Romanian &amp; English",
+    "company": "VALOREM STATIO S.R.L.",
+    "location": [
+      "Iași, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-10T14:38:06.970Z",
+    "status": "scraped",
+    "tags": [
+      "traducere",
+      "limbă străină"
+    ],
+    "matchPercentage": 80,
+    "reason": "Interprete și traducere română-engleză folosesc direct competența de traducere și limba străină."
+  },
+  {
     "url": "https://www.ejobs.ro/user/locuri-de-munca/profesor-mediator-colaborare/1990927",
     "title": "Profesor / Mediator (Colaborare)",
     "company": "IVANSOFT S.R.L.",
@@ -10,96 +27,28 @@
     "date": "2026-10-05T16:51:40.566Z",
     "status": "scraped",
     "tags": [
-      "limba română",
-      "literatură"
+      "limbă română",
+      "predare"
     ],
     "matchPercentage": 80,
-    "reason": "Profesor/mediator inclusiv Limba Română - predare directă în domeniul filologic, deschis studenților și absolvenților."
+    "reason": "Predare de limba română și engleză, se potrivește direct cu profilul filologic și educațional."
   },
   {
-    "url": "https://www.jobradar24.ro/anunt/interpreters-cultural-mediators-romanian-english-45m2v4",
-    "title": "Interpreters / Cultural Mediators - Romanian &amp; English",
-    "company": "VALOREM STATIO S.R.L.",
+    "url": "https://jobs.keysight.com/external/jobs/54734",
+    "title": "Developer/Technical Writer (Learning Products)",
+    "company": "KEYSIGHT TECHNOLOGIES RO SRL",
     "location": [
-      "Iași, Romania"
+      "Romania"
     ],
     "salary": null,
-    "date": "2026-10-09T15:20:57.779Z",
+    "date": "2026-10-10T14:38:34.882Z",
     "status": "scraped",
     "tags": [
-      "traducere",
-      "limbă străină"
-    ],
-    "matchPercentage": 78,
-    "reason": "Interpret/traducător română-engleză, folosește direct competențele lingvistice și de traducere."
-  },
-  {
-    "url": "https://crosswork.sincron.biz/jobs/details/741/junior-news-editor",
-    "title": "Junior News Editor",
-    "company": "CROSS WORK S.R.L.",
-    "location": [
-      "all, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-09T15:23:09.636Z",
-    "status": "scraped",
-    "tags": [
-      "Comunicare scrisă",
-      "Limbi străine"
+      "redactare",
+      "comunicare scrisă"
     ],
     "matchPercentage": 76,
-    "reason": "Junior news editor presupune redactare, editare si revizuire de continut, folosind scrierea si cunoasterea unei limbi straine."
-  },
-  {
-    "url": "https://alliancewd.wd3.myworkdayjobs.com/ro-RO/renault-group-careers/job/Bucuresti/XMLNAME--Internship--Specialist-comunicare-intern--F-M-_JOBREQ_50282102",
-    "title": "Internship Specialist comunicare internă (F/M)",
-    "company": "RENAULT SRL",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-09T15:29:48.108Z",
-    "status": "scraped",
-    "tags": [
-      "comunicare scrisă",
-      "editare"
-    ],
-    "matchPercentage": 72,
-    "reason": "Internship de comunicare internă cu redactare de articole, newsletter și conținut, care acceptă absolvenți de Litere."
-  },
-  {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/271837/Aleph-News/Editor-online-Stiri",
-    "title": "Editor online Stiri",
-    "company": "ALEPH MEDIA S.R.L.",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-09T15:25:08.883Z",
-    "status": "scraped",
-    "tags": [
-      "Comunicare scrisă",
-      "Analiză stilistică"
-    ],
-    "matchPercentage": 72,
-    "reason": "Editor online stiri presupune redactare si editare de text, potrivit pentru competentele de comunicare scrisa si analiza stilistica."
-  },
-  {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/270047/Aleph-News/Editor/Jurnalist-Aleph-Business",
-    "title": "Editor/Jurnalist Aleph Business",
-    "company": "ALEPH MEDIA S.R.L.",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-09T15:25:08.883Z",
-    "status": "scraped",
-    "tags": [
-      "Comunicare scrisă",
-      "Analiză stilistică"
-    ],
-    "matchPercentage": 70,
-    "reason": "Editor/jurnalist presupune producere de text redactional, relevant pentru competentele lingvistice si de comunicare scrisa."
+    "reason": "Technical writer produce și standardizează documentație, folosind direct redactarea și analiza stilistică."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/formator-pentru-instruirea-practica",
@@ -109,64 +58,132 @@
       "IASI, Romania"
     ],
     "salary": null,
-    "date": "2026-10-09T15:00:10.962Z",
+    "date": "2026-10-10T14:21:14.047Z",
     "status": "scraped",
     "tags": [
-      "comunicare orală",
-      "limbă străină"
+      "limbă străină",
+      "formare"
     ],
-    "matchPercentage": 67,
-    "reason": "Formator/instruire practică în domeniul educație și formare, potrivit nivelului de început."
+    "matchPercentage": 75,
+    "reason": "Formator de limba engleză, folosește direct competența lingvistică și de formare."
   },
   {
-    "url": "https://multijobs.ro/job/junior-content-creator/2266",
-    "title": "Junior Content Creator",
-    "company": "ADVICE DIGITAL S.R.L.",
+    "url": "https://makitajobs.ro/traducator-limba-japoneza/",
+    "title": "Traducător Limba Japoneză",
+    "company": "MAKITA EU SRL",
+    "location": [
+      "all, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-10T14:42:28.955Z",
+    "status": "scraped",
+    "tags": [
+      "traducere",
+      "limbă străină"
+    ],
+    "matchPercentage": 68,
+    "reason": "Traducere și interpretariat folosesc direct competențele lingvistice de producere și traducere de texte, dar limba specifică (japoneză) poate să nu corespundă competențelor tale."
+  },
+  {
+    "url": "https://multijobs.ro/job/program-content-communications-specialist-cluj-napoca-hybrid/5776",
+    "title": "Program &amp; Content Communications Specialist – Cluj-Napoca, Hybrid",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Cluj-Napoca, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-10T14:39:20.599Z",
+    "status": "scraped",
+    "tags": [
+      "comunicare scrisă",
+      "conținut"
+    ],
+    "matchPercentage": 65,
+    "reason": "Specialist comunicare și conținut, parțial relevant prin producere de texte."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/ai-evaluation-annotation-reviewer-l3-advanced-level-italian",
+    "title": "AI Evaluation &amp; Annotation Reviewer (L3 - Advanced Level) - Italian",
+    "company": "MUŞAT &amp; PARTNERS SRL",
+    "location": [
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-10T14:38:44.592Z",
+    "status": "scraped",
+    "tags": [
+      "lingvistică",
+      "analiză semantică"
+    ],
+    "matchPercentage": 63,
+    "reason": "Evaluare și adnotare lingvistică a datelor într-o limbă străină, folosește direct analiza lingvistică și semantică."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/grant-writer-fundraising-consultant",
+    "title": "Grant Writer &amp; Fundraising Consultant",
+    "company": "ACSIS STORE S.R.L.",
     "location": [
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-10-09T15:18:08.685Z",
+    "date": "2026-10-10T14:42:49.704Z",
     "status": "scraped",
     "tags": [
       "comunicare scrisă",
-      "analiză stilistică"
+      "redactare"
     ],
-    "matchPercentage": 65,
-    "reason": "Redactare de conținut scris în limba română, nivel junior, potrivire parțială cu comunicare și media."
+    "matchPercentage": 62,
+    "reason": "Grant writing presupune redactare, cercetare și argumentare scrisă, potrivire parțială pe comunicare scrisă."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/content-creator-44",
-    "title": "Content Creator",
-    "company": "MEDIA SRL",
+    "url": "https://www.ejobs.ro/user/locuri-de-munca/marketing-specialist-craiova-brand-social-media-content/1988094",
+    "title": "Marketing Specialist Craiova | Brand, Social Media &amp; Content",
+    "company": "EVOBRAND SRL",
     "location": [
       "Craiova, Romania"
     ],
     "salary": null,
-    "date": "2026-10-09T15:12:58.760Z",
+    "date": "2026-10-10T14:36:24.421Z",
     "status": "scraped",
     "tags": [
       "comunicare scrisă",
       "analiză stilistică"
     ],
     "matchPercentage": 62,
-    "reason": "Creare de conținut scris redacțional, nivel de început, domeniu comunicare și media."
+    "reason": "Conține redactare texte și materiale de comunicare, parțial relevant pentru profilul tău."
   },
   {
-    "url": "https://qubiz.com/careers/content-marketing-specialist",
-    "title": "Content Marketing Specialist",
-    "company": "QUBIZ SRL",
+    "url": "https://www.bestjobs.eu/loc-de-munca/content-social-media-specialist-2",
+    "title": "Content &amp; Social Media Specialist",
+    "company": "ASTRA FILM S.R.L.",
     "location": [
-      "Cluj-Napoca,Oradea, Romania"
+      "Pipera, Voluntari, Romania"
     ],
     "salary": null,
-    "date": "2026-10-09T15:17:31.085Z",
+    "date": "2026-10-10T14:36:06.705Z",
     "status": "scraped",
     "tags": [
       "comunicare scrisă",
-      "analiză stilistică"
+      "conținut"
+    ],
+    "matchPercentage": 62,
+    "reason": "Conținut și social media cu producere de texte, potrivire parțială."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/marketplace-content-engagement-specialist",
+    "title": "Marketplace Content &amp; Engagement Specialist",
+    "company": "FABRICA DE MARKETING CREATIV S.R.L.",
+    "location": [
+      "Remote, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-10T14:36:34.322Z",
+    "status": "scraped",
+    "tags": [
+      "comunicare scrisă",
+      "conținut"
     ],
     "matchPercentage": 60,
-    "reason": "Creare de conținut editorial pe blog/site, folosește redactarea și analiza stilistică."
+    "reason": "Management de conținut de marketplace cu redactare și engagement, potrivire parțială."
   }
 ]
