@@ -1,189 +1,19 @@
 [
   {
-    "url": "https://www.jobradar24.ro/anunt/interpreters-cultural-mediators-romanian-english-45m2v4",
-    "title": "Interpreters / Cultural Mediators - Romanian &amp; English",
-    "company": "VALOREM STATIO S.R.L.",
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3408037",
+    "title": "SECRETARA PRELUCRARE TEXTE",
+    "company": "KRONSTEF SRL",
     "location": [
-      "Iași, Romania"
+      "Municipiul Targu Jiu, Romania"
     ],
     "salary": null,
-    "date": "2026-10-10T14:38:06.970Z",
-    "status": "scraped",
-    "tags": [
-      "traducere",
-      "limbă străină"
-    ],
-    "matchPercentage": 80,
-    "reason": "Interprete și traducere română-engleză folosesc direct competența de traducere și limba străină."
-  },
-  {
-    "url": "https://www.ejobs.ro/user/locuri-de-munca/profesor-mediator-colaborare/1990927",
-    "title": "Profesor / Mediator (Colaborare)",
-    "company": "IVANSOFT S.R.L.",
-    "location": [
-      "Remote, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-05T16:51:40.566Z",
-    "status": "scraped",
-    "tags": [
-      "limbă română",
-      "predare"
-    ],
-    "matchPercentage": 80,
-    "reason": "Predare de limba română și engleză, se potrivește direct cu profilul filologic și educațional."
-  },
-  {
-    "url": "https://jobs.keysight.com/external/jobs/54734",
-    "title": "Developer/Technical Writer (Learning Products)",
-    "company": "KEYSIGHT TECHNOLOGIES RO SRL",
-    "location": [
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-10T14:38:34.882Z",
+    "date": "2026-10-11T15:10:23.541Z",
     "status": "scraped",
     "tags": [
       "redactare",
-      "comunicare scrisă"
-    ],
-    "matchPercentage": 76,
-    "reason": "Technical writer produce și standardizează documentație, folosind direct redactarea și analiza stilistică."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/formator-pentru-instruirea-practica",
-    "title": "Formator pentru Instruirea Practica",
-    "company": "CENTRUL CULTURAL DE LIMBA ENGLEZA SHAKESPEARE SRL",
-    "location": [
-      "IASI, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-10T14:21:14.047Z",
-    "status": "scraped",
-    "tags": [
-      "limbă străină",
-      "formare"
-    ],
-    "matchPercentage": 75,
-    "reason": "Formator de limba engleză, folosește direct competența lingvistică și de formare."
-  },
-  {
-    "url": "https://makitajobs.ro/traducator-limba-japoneza/",
-    "title": "Traducător Limba Japoneză",
-    "company": "MAKITA EU SRL",
-    "location": [
-      "all, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-10T14:42:28.955Z",
-    "status": "scraped",
-    "tags": [
-      "traducere",
-      "limbă străină"
+      "ortografie"
     ],
     "matchPercentage": 68,
-    "reason": "Traducere și interpretariat folosesc direct competențele lingvistice de producere și traducere de texte, dar limba specifică (japoneză) poate să nu corespundă competențelor tale."
-  },
-  {
-    "url": "https://multijobs.ro/job/program-content-communications-specialist-cluj-napoca-hybrid/5776",
-    "title": "Program &amp; Content Communications Specialist – Cluj-Napoca, Hybrid",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
-    "location": [
-      "Cluj-Napoca, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-10T14:39:20.599Z",
-    "status": "scraped",
-    "tags": [
-      "comunicare scrisă",
-      "conținut"
-    ],
-    "matchPercentage": 65,
-    "reason": "Specialist comunicare și conținut, parțial relevant prin producere de texte."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/ai-evaluation-annotation-reviewer-l3-advanced-level-italian",
-    "title": "AI Evaluation &amp; Annotation Reviewer (L3 - Advanced Level) - Italian",
-    "company": "MUŞAT &amp; PARTNERS SRL",
-    "location": [
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-10T14:38:44.592Z",
-    "status": "scraped",
-    "tags": [
-      "lingvistică",
-      "analiză semantică"
-    ],
-    "matchPercentage": 63,
-    "reason": "Evaluare și adnotare lingvistică a datelor într-o limbă străină, folosește direct analiza lingvistică și semantică."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/grant-writer-fundraising-consultant",
-    "title": "Grant Writer &amp; Fundraising Consultant",
-    "company": "ACSIS STORE S.R.L.",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-10T14:42:49.704Z",
-    "status": "scraped",
-    "tags": [
-      "comunicare scrisă",
-      "redactare"
-    ],
-    "matchPercentage": 62,
-    "reason": "Grant writing presupune redactare, cercetare și argumentare scrisă, potrivire parțială pe comunicare scrisă."
-  },
-  {
-    "url": "https://www.ejobs.ro/user/locuri-de-munca/marketing-specialist-craiova-brand-social-media-content/1988094",
-    "title": "Marketing Specialist Craiova | Brand, Social Media &amp; Content",
-    "company": "EVOBRAND SRL",
-    "location": [
-      "Craiova, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-10T14:36:24.421Z",
-    "status": "scraped",
-    "tags": [
-      "comunicare scrisă",
-      "analiză stilistică"
-    ],
-    "matchPercentage": 62,
-    "reason": "Conține redactare texte și materiale de comunicare, parțial relevant pentru profilul tău."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/content-social-media-specialist-2",
-    "title": "Content &amp; Social Media Specialist",
-    "company": "ASTRA FILM S.R.L.",
-    "location": [
-      "Pipera, Voluntari, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-10T14:36:06.705Z",
-    "status": "scraped",
-    "tags": [
-      "comunicare scrisă",
-      "conținut"
-    ],
-    "matchPercentage": 62,
-    "reason": "Conținut și social media cu producere de texte, potrivire parțială."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/marketplace-content-engagement-specialist",
-    "title": "Marketplace Content &amp; Engagement Specialist",
-    "company": "FABRICA DE MARKETING CREATIV S.R.L.",
-    "location": [
-      "Remote, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-10T14:36:34.322Z",
-    "status": "scraped",
-    "tags": [
-      "comunicare scrisă",
-      "conținut"
-    ],
-    "matchPercentage": 60,
-    "reason": "Management de conținut de marketplace cu redactare și engagement, potrivire parțială."
+    "reason": "Prelucrare de texte cu cerință explicită de redactare corectă în română, gramatică și ortografie, la nivel entry."
   }
 ]
