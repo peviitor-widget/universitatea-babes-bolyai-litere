@@ -7,31 +7,14 @@
       "Iași, Romania"
     ],
     "salary": null,
-    "date": "2026-10-11T14:57:33.330Z",
+    "date": "2026-10-13T15:51:37.080Z",
     "status": "scraped",
     "tags": [
       "traducere",
       "limbă străină"
     ],
-    "matchPercentage": 72,
-    "reason": "Interpretare și traducere română-engleză, folosește direct competențele lingvistice și de limbi străine."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/profesor-profesoara-de-limba-engleza-pentru-copii",
-    "title": "Profesor/Profesoară de limba engleză pentru copii",
-    "company": "BESMART ENGLISH S.R.L.",
-    "location": [
-      "Arad, Romania,Chisineu-Cris, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-12T17:32:01.416Z",
-    "status": "scraped",
-    "tags": [
-      "limbă străină",
-      "educație"
-    ],
-    "matchPercentage": 70,
-    "reason": "Predare limbă engleză, folosește competența de limbă străină și se încadrează în educație/formare."
+    "matchPercentage": 82,
+    "reason": "Interpret/cultural mediator RO-EN folosește direct traducerea și comunicarea orală în limbi străine."
   },
   {
     "url": "https://www.ejobs.ro/user/locuri-de-munca/profesor-mediator-colaborare/1990927",
@@ -45,44 +28,10 @@
     "status": "scraped",
     "tags": [
       "limba română",
-      "predare"
+      "comunicare scrisă"
     ],
-    "matchPercentage": 68,
-    "reason": "Meditații inclusiv la Limba Română pentru elevi/studenți, aplică direct competențele lingvistice."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3408037",
-    "title": "SECRETARA PRELUCRARE TEXTE",
-    "company": "KRONSTEF SRL",
-    "location": [
-      "Municipiul Targu Jiu, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-11T15:10:23.541Z",
-    "status": "scraped",
-    "tags": [
-      "ortografie",
-      "redactare"
-    ],
-    "matchPercentage": 64,
-    "reason": "Redactarea de texte cu accent pe gramatică și ortografie folosește direct competențe filologice, dar rolul rămâne în esență administrativ-secretarial."
-  },
-  {
-    "url": "https://multijobs.ro/job/program-content-communications-specialist-cluj-napoca-hybrid/5776",
-    "title": "Program &amp; Content Communications Specialist – Cluj-Napoca, Hybrid",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
-    "location": [
-      "Cluj-Napoca, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-12T17:33:12.859Z",
-    "status": "scraped",
-    "tags": [
-      "comunicare scrisă",
-      "editare"
-    ],
-    "matchPercentage": 63,
-    "reason": "Redactare și editare de conținut scris, potrivit parțial cu competențele de comunicare scrisă și editare."
+    "matchPercentage": 72,
+    "reason": "Meditații la Limba Română, domeniu educație/formare, deschis studenților și absolvenților."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/formator-pentru-instruirea-practica",
@@ -92,13 +41,30 @@
       "IASI, Romania"
     ],
     "salary": null,
-    "date": "2026-10-11T14:48:31.827Z",
+    "date": "2026-10-13T15:54:02.774Z",
     "status": "scraped",
     "tags": [
-      "formare",
-      "limbă străină"
+      "comunicare orală",
+      "limba română"
     ],
-    "matchPercentage": 60,
-    "reason": "Formator/instruire în cadru educațional, potrivit parțial cu domeniul educație și formare."
+    "matchPercentage": 63,
+    "reason": "Formator în domeniul educație/formare lingvistică, folosește competențe de limbă și comunicare."
+  },
+  {
+    "url": "https://careers.n-ix.com/jobs/4525546101-narrative-game-design-senior/",
+    "title": "Narrative Designer (Game Writer) (#5866)",
+    "company": "N-IX CARPATHIA S.R.L.",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-13T15:59:29.946Z",
+    "status": "scraped",
+    "tags": [
+      "literatură",
+      "comunicare scrisă"
+    ],
+    "matchPercentage": 62,
+    "reason": "Game writer/narrative designer folosește scriere creativă și teorie narativă, potrivire parțială cu studiile literare."
   }
 ]
