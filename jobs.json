@@ -1,5 +1,22 @@
 [
   {
+    "url": "https://crosswork.sincron.biz/jobs/details/741/junior-news-editor",
+    "title": "Junior News Editor",
+    "company": "CROSS WORK S.R.L.",
+    "location": [
+      "all, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-14T13:40:53.937Z",
+    "status": "scraped",
+    "tags": [
+      "Comunicare scrisă",
+      "Analiză stilistică"
+    ],
+    "matchPercentage": 82,
+    "reason": "Redactare și editare de conținut editorial cu accent pe acuratețe, claritate și coerența textului, direct în zona competențelor de comunicare scrisă și analiză stilistică, la nivel junior."
+  },
+  {
     "url": "https://www.jobradar24.ro/anunt/interpreters-cultural-mediators-romanian-english-45m2v4",
     "title": "Interpreters / Cultural Mediators - Romanian &amp; English",
     "company": "VALOREM STATIO S.R.L.",
@@ -7,14 +24,14 @@
       "Iași, Romania"
     ],
     "salary": null,
-    "date": "2026-10-13T15:51:37.080Z",
+    "date": "2026-10-14T13:22:38.767Z",
     "status": "scraped",
     "tags": [
-      "traducere",
-      "limbă străină"
+      "limbă străină",
+      "traducere de texte"
     ],
-    "matchPercentage": 82,
-    "reason": "Interpret/cultural mediator RO-EN folosește direct traducerea și comunicarea orală în limbi străine."
+    "matchPercentage": 78,
+    "reason": "Interpretariat română-engleză folosește direct competența de traducere/limbă străină la nivel entry, fără cerințe de experiență."
   },
   {
     "url": "https://www.ejobs.ro/user/locuri-de-munca/profesor-mediator-colaborare/1990927",
@@ -27,11 +44,11 @@
     "date": "2026-10-05T16:51:40.566Z",
     "status": "scraped",
     "tags": [
-      "limba română",
-      "comunicare scrisă"
+      "analiză sintactică",
+      "comunicare orală"
     ],
-    "matchPercentage": 72,
-    "reason": "Meditații la Limba Română, domeniu educație/formare, deschis studenților și absolvenților."
+    "matchPercentage": 70,
+    "reason": "Meditații la limba română pentru elevi folosesc direct competențele de analiză a textului și comunicare, la nivel de student/collaborare."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/formator-pentru-instruirea-practica",
@@ -41,30 +58,13 @@
       "IASI, Romania"
     ],
     "salary": null,
-    "date": "2026-10-13T15:54:02.774Z",
+    "date": "2026-10-14T13:32:08.443Z",
     "status": "scraped",
     "tags": [
-      "comunicare orală",
-      "limba română"
+      "limbă străină",
+      "comunicare orală"
     ],
-    "matchPercentage": 63,
-    "reason": "Formator în domeniul educație/formare lingvistică, folosește competențe de limbă și comunicare."
-  },
-  {
-    "url": "https://careers.n-ix.com/jobs/4525546101-narrative-game-design-senior/",
-    "title": "Narrative Designer (Game Writer) (#5866)",
-    "company": "N-IX CARPATHIA S.R.L.",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-13T15:59:29.946Z",
-    "status": "scraped",
-    "tags": [
-      "literatură",
-      "comunicare scrisă"
-    ],
-    "matchPercentage": 62,
-    "reason": "Game writer/narrative designer folosește scriere creativă și teorie narativă, potrivire parțială cu studiile literare."
+    "matchPercentage": 60,
+    "reason": "Rol de formator într-un centru cultural de limbă, potrivit pentru educație și formare cu limba străină și comunicare orală."
   }
 ]
