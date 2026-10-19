@@ -10,11 +10,11 @@
     "date": "2026-10-17T12:16:32.994Z",
     "status": "scraped",
     "tags": [
-      "Traducere",
-      "Editare texte"
+      "traducere texte",
+      "comunicare scrisă"
     ],
-    "matchPercentage": 92,
-    "reason": "Traducere EN-RO și copy editing de conținut sunt exact competențele tale de limbă și redactare."
+    "matchPercentage": 95,
+    "reason": "Linguist și copy editor EN-RO pentru conținut product/marketing/UI - folosește direct competențele de traducere, analiză lingvistică și redactare, nivel entry-level, de acasă."
   },
   {
     "url": "https://www.jobradar24.ro/anunt/interpreters-cultural-mediators-romanian-english-45m2v4",
@@ -28,11 +28,11 @@
     "date": "2026-10-16T13:03:15.074Z",
     "status": "scraped",
     "tags": [
-      "limbă străină",
-      "traducere"
+      "Limbă străină",
+      "Comunicare orală"
     ],
-    "matchPercentage": 88,
-    "reason": "Interpretariatul RO-EN folosește direct competențele de limbă străină, traducere și comunicare verbală și scrisă în limba română și engleză."
+    "matchPercentage": 85,
+    "reason": "Interpretariat și mediere culturală folosește direct competențele lingvistice și de traducere, la nivel de intrare."
   },
   {
     "url": "https://careers.n-ix.com/jobs/4525546101-narrative-game-design-senior/",
@@ -46,11 +46,11 @@
     "date": "2026-10-17T12:17:32.509Z",
     "status": "scraped",
     "tags": [
-      "comunicare scrisă",
-      "teorie literaturii"
+      "Comunicare scrisă",
+      "Teoria literaturii"
     ],
-    "matchPercentage": 82,
-    "reason": "Game writer-ul creează narațiuni, personaje și dialoguri, activitate direct legată de competențele de scriere creativă și analiză literară."
+    "matchPercentage": 80,
+    "reason": "Narrative Designer presupune scriere narativă și cunoașterea teoriei literaturii, competențe directe ale unui absolvent de litere."
   },
   {
     "url": "https://updivision.com/careers/content-creator-with-an-eye-for-ux-design",
@@ -63,98 +63,11 @@
     "date": "2026-10-17T12:16:32.993Z",
     "status": "scraped",
     "tags": [
-      "comunicare scrisă",
-      "analiză semantică"
+      "Comunicare scrisă",
+      "Stilistică"
     ],
-    "matchPercentage": 75,
-    "reason": "Rolul combină scrierea de conținut cu designul UX, potrivindu-se parțial competențelor de comunicare scrisă și analiză a textului."
-  },
-  {
-    "url": "https://multijobs.ro/job/invatator-educator-pentru-scoala-gimnaziala/1714",
-    "title": "Învățător/Educator pentru Școală Gimnazială",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
-    "location": [
-      "Otopeni",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:20:33.969Z",
-    "status": "scraped",
-    "tags": [
-      "Comunicare scrisă și orală",
-      "Analiză stilistică"
-    ],
-    "matchPercentage": 70,
-    "reason": "Domeniul educație se potrivește parțial, dar postarea este vagă privind sarcinile și nivelul."
-  },
-  {
-    "url": "https://www.undelucram.ro/ro/locuri-de-munca/corporate-functions-internship-at-aumovio-tm/96893",
-    "title": "Corporate Functions Internship at AUMOVIO (TM)",
-    "company": "AUMOVIO TECHNOLOGIES ROMANIA S.R.L.",
-    "location": [
-      "Timișoara",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:20:49.268Z",
-    "status": "scraped",
-    "tags": [
-      "traducere de texte",
-      "limbă străină"
-    ],
-    "matchPercentage": 68,
-    "reason": "Internship pentru studenți în funcții corporative care include explicit departamentul de Translation, potrivindu-se parțial cu competența ta de traducere și producere de texte."
-  },
-  {
-    "url": "https://oferimdemunca.ro/job/consultant-scriere-proiecte-remote/",
-    "title": "Consultant scriere proiecte - Remote",
-    "company": "SYREM CONSULT S.R.L.",
-    "location": [
-      "București",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:18:49.570Z",
-    "status": "scraped",
-    "tags": [
-      "comunicare scrisă",
-      "analiză semantică"
-    ],
-    "matchPercentage": 68,
-    "reason": "Întocmirea documentației pentru fonduri folosește competențele de redactare și structurare a textului, deși domeniul este consultanță financiară."
-  },
-  {
-    "url": "https://www.ejobs.ro/user/locuri-de-munca/marketing-specialist-craiova-brand-social-media-content/1988094",
-    "title": "Marketing Specialist Craiova | Brand, Social Media &amp; Content",
-    "company": "EVOBRAND SRL",
-    "location": [
-      "Craiova",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:20:20.065Z",
-    "status": "scraped",
-    "tags": [
-      "comunicare scrisă",
-      "analiză stilistică"
-    ],
-    "matchPercentage": 66,
-    "reason": "Scrierea de texte și materiale de comunicare pentru branduri se potrivește cu competențele de scriere și stilistică, la nivel junior cu 1 an experiență."
-  },
-  {
-    "url": "https://www.undelucram.ro/ro/locuri-de-munca/content-specialist/100433",
-    "title": "Content Specialist",
-    "company": "DR. VIERU MAXIM S.R.L.",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:22:38.251Z",
-    "status": "scraped",
-    "tags": [],
-    "matchPercentage": 65,
-    "reason": "Creare și optimizare de conținut digital, copywriting și storytelling — comunicare scrisă și redactare de texte în limba română, domeniu media relevant; nivel junior posibil."
+    "matchPercentage": 72,
+    "reason": "Scriere de conținut cu dimensiune UX; se potrivește parțial, competența de scriere fiind centrală, dar fără analiză filologică."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3408037",
@@ -168,82 +81,28 @@
     "date": "2026-10-17T12:01:10.690Z",
     "status": "scraped",
     "tags": [
-      "Analiză ortografică",
-      "Comunicare scrisă"
+      "Comunicare scrisă",
+      "Analiză ortografică"
     ],
-    "matchPercentage": 62,
-    "reason": "Prelucrarea textelor cere redactare corectă gramatical și ortografică, o competență directă a ta, la nivel entry."
+    "matchPercentage": 65,
+    "reason": "Cerința principală este redactare corectă în limba română cu atenție la gramatică și ortografie, o competență filologică directă, iar nivelul (experiență puțină, postliceală acceptată) este potrivit."
   },
   {
-    "url": "https://emea-apj-riverbed.icims.com/jobs/8067/technical-writer/job?in_iframe=1",
-    "title": "Technical Writer",
-    "company": "RIVERBED TECHNOLOGY LABS  SRL",
-    "location": [
-      "Cluj-Napoca",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:13:26.953Z",
-    "status": "scraped",
-    "tags": [
-      "comunicare scrisă",
-      "analiză stilistică"
-    ],
-    "matchPercentage": 62,
-    "reason": "Technical writing-ul se bazează pe competențe de redactare și structurare a textului, dar cere și familiaritate tehnică IT care nu face parte din formarea filologică."
-  },
-  {
-    "url": "https://multijobs.ro/job/polish-content-moderator/6291",
-    "title": "Polish Content Moderator",
+    "url": "https://multijobs.ro/job/invatator-educator-pentru-scoala-gimnaziala/1714",
+    "title": "Învățător/Educator pentru Școală Gimnazială",
     "company": "MULTIDATA MANAGEMENT S.R.L.",
     "location": [
-      "Brașov",
+      "Otopeni",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-17T12:22:35.322Z",
+    "date": "2026-10-17T12:20:33.969Z",
     "status": "scraped",
     "tags": [
-      "limbă străină",
-      "comunicare scrisă"
+      "comunicare scrisă și orală",
+      "limba română"
     ],
-    "matchPercentage": 61,
-    "reason": "Moderarea conținutului se bazează direct pe competență lingvistică și stăpânirea unei limbi străine."
-  },
-  {
-    "url": "https://multijobs.ro/job/content-moderator-limba-germana/5200",
-    "title": "Content Moderator-Limba Germana",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:19:41.422Z",
-    "status": "scraped",
-    "tags": [
-      "limbă străină",
-      "comunicare scrisă"
-    ],
-    "matchPercentage": 61,
-    "reason": "Moderarea de conținut în limba germană valorifică direct competența lingvistică și limba străină modernă."
-  },
-  {
-    "url": "https://fjobs.ro/job/creator-content/",
-    "title": "Creator content",
-    "company": "BIOBUILDS HOME S.R.L.",
-    "location": [
-      "Targoviste",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:21:46.424Z",
-    "status": "scraped",
-    "tags": [
-      "comunicare scrisă",
-      "analiză stilistică"
-    ],
-    "matchPercentage": 60,
-    "reason": "Crearea de conținut folosește direct scrierea și comunicarea scrisă în limba română, la nivel entry-level."
+    "matchPercentage": 62,
+    "reason": "Domeniul educației este potrivit, iar activitatea didactică presupune stăpânirea și predarea limbii române, însă rolul de educator/învățător nu valorifică direct analiza lingvistică sau literară."
   }
 ]
