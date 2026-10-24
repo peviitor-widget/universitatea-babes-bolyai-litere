@@ -1,58 +1,5 @@
 [
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/english-to-romanian-linguist-copy-editor-for-product-marketing-ui-content",
-    "title": "English to Romanian Linguist &amp; Copy Editor for Product, Marketing &amp; UI Content",
-    "company": "GLOBAL BROTHER SRL",
-    "location": [
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:16:32.994Z",
-    "status": "scraped",
-    "tags": [
-      "Traducere",
-      "Editare"
-    ],
-    "matchPercentage": 90,
-    "reason": "Rolul presupune traducere engleză-română și editare de texte, potrivind direct competențele lingvistice."
-  },
-  {
-    "url": "https://www.jobradar24.ro/anunt/interpreters-cultural-mediators-romanian-english-45m2v4",
-    "title": "Interpreters / Cultural Mediators - Romanian &amp; English",
-    "company": "VALOREM STATIO S.R.L.",
-    "location": [
-      "Iași",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-16T13:03:15.074Z",
-    "status": "scraped",
-    "tags": [
-      "Traducere",
-      "Comunicare orală"
-    ],
-    "matchPercentage": 80,
-    "reason": "Interpretariatul română-engleză utilizează direct competențele de traducere și comunicare orală."
-  },
-  {
-    "url": "https://www.undelucram.ro/ro/locuri-de-munca/content-specialist/100433",
-    "title": "Content Specialist",
-    "company": "DR. VIERU MAXIM S.R.L.",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:22:38.251Z",
-    "status": "scraped",
-    "tags": [
-      "comunicare scrisă",
-      "analiză stilistică"
-    ],
-    "matchPercentage": 68,
-    "reason": "Rol de comunicare/media bazat pe copywriting și storytelling, parțial acoperit de competențele de comunicare scrisă și analiză stilistică."
-  },
-  {
     "url": "https://yardiromania.breezy.hr/p/9791de0e2d6001-associate-editor",
     "title": "Associate Editor",
     "company": "YARDI CALL CENTER SRL",
@@ -61,32 +8,14 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-22T10:58:34.927Z",
+    "date": "2026-10-23T10:51:14.798Z",
     "status": "scraped",
     "tags": [
-      "comunicare scrisă",
-      "analiză stilistică"
+      "redactare",
+      "editare"
     ],
-    "matchPercentage": 65,
-    "reason": "Rol editorial cu redactare, editare si continut media, potrivire partiala cu editarea si comunicarea."
-  },
-  {
-    "url": "https://multijobs.ro/job/invatator-educator-pentru-scoala-gimnaziala/1714",
-    "title": "Învățător/Educator pentru Școală Gimnazială",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
-    "location": [
-      "Otopeni",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:20:33.969Z",
-    "status": "scraped",
-    "tags": [
-      "comunicare orală",
-      "literatură"
-    ],
-    "matchPercentage": 65,
-    "reason": "Rol în educație, potrivit parțial pentru un absolvent de litere aflat la nivel de intrare."
+    "matchPercentage": 90,
+    "reason": "Editare și creare de conținut scris, potrivit competențelor filologice"
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3408037",
@@ -100,10 +29,10 @@
     "date": "2026-10-17T12:01:10.690Z",
     "status": "scraped",
     "tags": [
-      "ortografie",
-      "comunicare scrisă"
+      "redactare",
+      "ortografie"
     ],
-    "matchPercentage": 62,
-    "reason": "Prelucrare de texte cu cerinte stricte de gramatica si ortografie romana, potrivire partiala."
+    "matchPercentage": 70,
+    "reason": "Prelucrare texte cu cerințe de ortografie și redactare în română"
   }
 ]
