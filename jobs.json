@@ -1,5 +1,40 @@
 [
   {
+    "url": "https://www.bestjobs.eu/loc-de-munca/english-to-romanian-linguist-copy-editor-for-product-marketing-ui-content",
+    "title": "English to Romanian Linguist &amp; Copy Editor for Product, Marketing &amp; UI Content",
+    "company": "GLOBAL BROTHER SRL",
+    "location": [
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:16:32.994Z",
+    "status": "scraped",
+    "tags": [
+      "traducere",
+      "stilistică"
+    ],
+    "matchPercentage": 95,
+    "reason": "Traducere, editare și copy-editing folosesc direct competențele de analiză lingvistică și stilistică."
+  },
+  {
+    "url": "https://careers.n-ix.com/jobs/4525546101-narrative-game-design-senior/",
+    "title": "Narrative Designer (Game Writer) (#5866)",
+    "company": "N-IX CARPATHIA S.R.L.",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:17:32.509Z",
+    "status": "scraped",
+    "tags": [
+      "literatură",
+      "narațiune"
+    ],
+    "matchPercentage": 92,
+    "reason": "Scriere narativă pentru jocuri utilizează direct teoria literaturii, storytelling și analiză textuală."
+  },
+  {
     "url": "https://yardiromania.breezy.hr/p/9791de0e2d6001-associate-editor",
     "title": "Associate Editor",
     "company": "YARDI CALL CENTER SRL",
@@ -11,11 +46,82 @@
     "date": "2026-10-23T10:51:14.798Z",
     "status": "scraped",
     "tags": [
-      "redactare",
-      "editare"
+      "comunicare scrisă",
+      "analiză stilistică"
     ],
-    "matchPercentage": 90,
-    "reason": "Editare și creare de conținut scris, potrivit competențelor filologice"
+    "matchPercentage": 85,
+    "reason": "Activitate editorială de creare/conținut pentru publicații."
+  },
+  {
+    "url": "https://www.undelucram.ro/ro/locuri-de-munca/content-specialist/100433",
+    "title": "Content Specialist",
+    "company": "DR. VIERU MAXIM S.R.L.",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:22:38.251Z",
+    "status": "scraped",
+    "tags": [
+      "stilistică",
+      "comunicare"
+    ],
+    "matchPercentage": 85,
+    "reason": "Creare de conținut, scripturi, storytelling și analiză de performanță - potrivite pentru competențele de comunicare și stilistică."
+  },
+  {
+    "url": "https://www.jobradar24.ro/anunt/interpreters-cultural-mediators-romanian-english-45m2v4",
+    "title": "Interpreters / Cultural Mediators - Romanian &amp; English",
+    "company": "VALOREM STATIO S.R.L.",
+    "location": [
+      "Iași",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-16T13:03:15.074Z",
+    "status": "scraped",
+    "tags": [
+      "traducere",
+      "comunicare"
+    ],
+    "matchPercentage": 78,
+    "reason": "Interpretariatul și mediația culturală folosesc competențele lingvistice și comunicarea interlingvistică."
+  },
+  {
+    "url": "https://www.ejobs.ro/user/locuri-de-munca/marketing-specialist-craiova-brand-social-media-content/1988094",
+    "title": "Marketing Specialist Craiova | Brand, Social Media &amp; Content",
+    "company": "EVOBRAND SRL",
+    "location": [
+      "Craiova",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:20:20.065Z",
+    "status": "scraped",
+    "tags": [
+      "comunicare",
+      "stilistică"
+    ],
+    "matchPercentage": 75,
+    "reason": "Copywriting și creare de conținut pentru social media, necesită abilități de exprimare scrisă și adaptare la public."
+  },
+  {
+    "url": "https://updivision.com/careers/content-creator-with-an-eye-for-ux-design",
+    "title": "Content Creator with an eye for UX design",
+    "company": "UPDIVISION SRL",
+    "location": [
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:16:32.993Z",
+    "status": "scraped",
+    "tags": [
+      "comunicare",
+      "stilistică"
+    ],
+    "matchPercentage": 72,
+    "reason": "Creare de conținut scris relevantă parțial, dar combinată cu UX design reduce gradul de potrivire."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3408037",
@@ -29,10 +135,10 @@
     "date": "2026-10-17T12:01:10.690Z",
     "status": "scraped",
     "tags": [
-      "redactare",
-      "ortografie"
+      "comunicare scrisă",
+      "analiză ortografică"
     ],
     "matchPercentage": 70,
-    "reason": "Prelucrare texte cu cerințe de ortografie și redactare în română"
+    "reason": "Prelucrare texte cu accent pe gramatică/ortografie română."
   }
 ]
