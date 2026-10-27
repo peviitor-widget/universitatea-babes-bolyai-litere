@@ -1,5 +1,23 @@
 [
   {
+    "url": "https://yardiromania.breezy.hr/p/9791de0e2d6001-associate-editor",
+    "title": "Associate Editor",
+    "company": "YARDI CALL CENTER SRL",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-26T12:05:19.651Z",
+    "status": "scraped",
+    "tags": [
+      "comunicare scrisă",
+      "editare"
+    ],
+    "matchPercentage": 90,
+    "reason": "Activități editoriale directe: redactare, interviuri și conținut media."
+  },
+  {
     "url": "https://www.bestjobs.eu/loc-de-munca/english-to-romanian-linguist-copy-editor-for-product-marketing-ui-content",
     "title": "English to Romanian Linguist &amp; Copy Editor for Product, Marketing &amp; UI Content",
     "company": "GLOBAL BROTHER SRL",
@@ -10,11 +28,11 @@
     "date": "2026-10-17T12:16:32.994Z",
     "status": "scraped",
     "tags": [
-      "lingvistică",
-      "editare"
+      "traducere",
+      "analiză stilistică"
     ],
-    "matchPercentage": 92,
-    "reason": "Lingvist și copy editor engleză-română, potrivire directă pe lingvistică și editare."
+    "matchPercentage": 88,
+    "reason": "Postul de lingvist și copy editor EN-RO folosește direct competențele de traducere, redactare și analiză stilistică."
   },
   {
     "url": "https://www.jobradar24.ro/anunt/interpreters-cultural-mediators-romanian-english-45m2v4",
@@ -29,28 +47,10 @@
     "status": "scraped",
     "tags": [
       "traducere",
-      "limbă străină"
+      "limbă engleză"
     ],
-    "matchPercentage": 76,
-    "reason": "Interpretariat română-engleză, folosește direct competențele lingvistice și de traducere."
-  },
-  {
-    "url": "https://careers.n-ix.com/jobs/4525546101-narrative-game-design-senior/",
-    "title": "Narrative Designer (Game Writer) (#5866)",
-    "company": "N-IX CARPATHIA S.R.L.",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:17:32.509Z",
-    "status": "scraped",
-    "tags": [
-      "literatură",
-      "comunicare scrisă"
-    ],
-    "matchPercentage": 72,
-    "reason": "Scriere narativă și storytelling pentru jocuri, relevante pentru literatura și textele studiate."
+    "matchPercentage": 78,
+    "reason": "Interpretariatul română-engleză valorifică direct competențele lingvistice și de traducere, la un nivel accesibil."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3408037",
@@ -64,10 +64,27 @@
     "date": "2026-10-17T12:01:10.690Z",
     "status": "scraped",
     "tags": [
-      "redactare română",
-      "ortografie"
+      "ortografie",
+      "redactare"
     ],
-    "matchPercentage": 68,
-    "reason": "Sarcinile se bazează direct pe redactare, gramatică și ortografie în limba română, iar nivelul este entry-level."
+    "matchPercentage": 65,
+    "reason": "Prelucrare și redactare de texte, folosește competențe ortografice și de redactare."
+  },
+  {
+    "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Paris-France/Stage-de-fin-d-tudes---Charg-e--d-tudes-marketing_JR0775",
+    "title": "Stage de fin d&#039;études – Chargé(e) d’études marketing",
+    "company": "YOUGOV CP ROMANIA S.R.L.",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-10-26T12:21:22.226Z",
+    "status": "scraped",
+    "tags": [
+      "metodologie",
+      "analiză"
+    ],
+    "matchPercentage": 65,
+    "reason": "Cercetare de marketing cu analiză, sinteză și raportare, folosește parțial metodologia de cercetare."
   }
 ]
