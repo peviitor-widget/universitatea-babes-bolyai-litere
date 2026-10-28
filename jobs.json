@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://yardiromania.breezy.hr/p/9791de0e2d6001-associate-editor",
-    "title": "Associate Editor",
-    "company": "YARDI CALL CENTER SRL",
-    "location": [
-      "Cluj-Napoca",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-26T12:05:19.651Z",
-    "status": "scraped",
-    "tags": [
-      "comunicare scrisă",
-      "editare"
-    ],
-    "matchPercentage": 90,
-    "reason": "Activități editoriale directe: redactare, interviuri și conținut media."
-  },
-  {
     "url": "https://www.bestjobs.eu/loc-de-munca/english-to-romanian-linguist-copy-editor-for-product-marketing-ui-content",
     "title": "English to Romanian Linguist &amp; Copy Editor for Product, Marketing &amp; UI Content",
     "company": "GLOBAL BROTHER SRL",
@@ -31,8 +13,62 @@
       "traducere",
       "analiză stilistică"
     ],
-    "matchPercentage": 88,
-    "reason": "Postul de lingvist și copy editor EN-RO folosește direct competențele de traducere, redactare și analiză stilistică."
+    "matchPercentage": 95,
+    "reason": "Traducerea și editarea de texte valorifică direct competențele lingvistice și de redactare."
+  },
+  {
+    "url": "https://yardiromania.breezy.hr/p/9791de0e2d6001-associate-editor",
+    "title": "Associate Editor",
+    "company": "YARDI CALL CENTER SRL",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-27T11:24:16.060Z",
+    "status": "scraped",
+    "tags": [
+      "redactare",
+      "analiză stilistică"
+    ],
+    "matchPercentage": 90,
+    "reason": "Activități editoriale directe: redactare, interviuri, conținut media și social media."
+  },
+  {
+    "url": "https://careers.n-ix.com/jobs/4525546101-narrative-game-design-senior/",
+    "title": "Narrative Designer (Game Writer) (#5866)",
+    "company": "N-IX CARPATHIA S.R.L.",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:17:32.509Z",
+    "status": "scraped",
+    "tags": [
+      "teoria literaturii",
+      "analiză stilistică"
+    ],
+    "matchPercentage": 90,
+    "reason": "Scrierea narativă pentru jocuri valorifică direct interpretarea și teoria literaturii."
+  },
+  {
+    "url": "https://www.undelucram.ro/ro/locuri-de-munca/content-specialist/100433",
+    "title": "Content Specialist",
+    "company": "DR. VIERU MAXIM S.R.L.",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:22:38.251Z",
+    "status": "scraped",
+    "tags": [
+      "comunicare scrisă",
+      "stilistică"
+    ],
+    "matchPercentage": 85,
+    "reason": "Creare conținut, scripturi și copywriting folosesc comunicare scrisă și stilistică."
   },
   {
     "url": "https://www.jobradar24.ro/anunt/interpreters-cultural-mediators-romanian-english-45m2v4",
@@ -47,10 +83,28 @@
     "status": "scraped",
     "tags": [
       "traducere",
-      "limbă engleză"
+      "comunicare orală"
     ],
-    "matchPercentage": 78,
-    "reason": "Interpretariatul română-engleză valorifică direct competențele lingvistice și de traducere, la un nivel accesibil."
+    "matchPercentage": 85,
+    "reason": "Interpretariatul și medierea culturală valorifică direct competențele lingvistice și comunicarea în limbi străine."
+  },
+  {
+    "url": "https://multijobs.ro/job/invatator-educator-pentru-scoala-gimnaziala/1714",
+    "title": "Învățător/Educator pentru Școală Gimnazială",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Otopeni",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:20:33.969Z",
+    "status": "scraped",
+    "tags": [
+      "educație",
+      "morfologie"
+    ],
+    "matchPercentage": 85,
+    "reason": "Educație/formare, potrivit pentru utilizarea competențelor de limbă și literatură română."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3408037",
@@ -67,24 +121,60 @@
       "ortografie",
       "redactare"
     ],
-    "matchPercentage": 65,
-    "reason": "Prelucrare și redactare de texte, folosește competențe ortografice și de redactare."
+    "matchPercentage": 70,
+    "reason": "Prelucrare și redactare de texte, cu accent pe ortografie, gramatică și formulare corecte."
   },
   {
-    "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Paris-France/Stage-de-fin-d-tudes---Charg-e--d-tudes-marketing_JR0775",
-    "title": "Stage de fin d&#039;études – Chargé(e) d’études marketing",
-    "company": "YOUGOV CP ROMANIA S.R.L.",
+    "url": "https://oferimdemunca.ro/job/consultant-scriere-proiecte-remote/",
+    "title": "Consultant scriere proiecte - Remote",
+    "company": "SYREM CONSULT S.R.L.",
     "location": [
-      "România"
+      "București",
+      "Romania"
     ],
     "salary": null,
-    "date": "2026-10-26T12:21:22.226Z",
+    "date": "2026-10-17T12:18:49.570Z",
     "status": "scraped",
     "tags": [
-      "metodologie",
-      "analiză"
+      "comunicare scrisă",
+      "metodologie cercetare"
+    ],
+    "matchPercentage": 70,
+    "reason": "Scrierea proiectelor de finanțare valorifică parțial redactarea analitică și comunicarea scrisă."
+  },
+  {
+    "url": "https://www.ejobs.ro/user/locuri-de-munca/marketing-specialist-craiova-brand-social-media-content/1988094",
+    "title": "Marketing Specialist Craiova | Brand, Social Media &amp; Content",
+    "company": "EVOBRAND SRL",
+    "location": [
+      "Craiova",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:20:20.065Z",
+    "status": "scraped",
+    "tags": [
+      "comunicare scrisă",
+      "analiză stilistică"
     ],
     "matchPercentage": 65,
-    "reason": "Cercetare de marketing cu analiză, sinteză și raportare, folosește parțial metodologia de cercetare."
+    "reason": "Scrierea de conținut pentru social media folosește abilități de comunicare scrisă, dar domeniul marketing nu valorifică direct competențele filologice."
+  },
+  {
+    "url": "https://updivision.com/careers/content-creator-with-an-eye-for-ux-design",
+    "title": "Content Creator with an eye for UX design",
+    "company": "UPDIVISION SRL",
+    "location": [
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:16:32.993Z",
+    "status": "scraped",
+    "tags": [
+      "comunicare scrisă",
+      "analiză stilistică"
+    ],
+    "matchPercentage": 65,
+    "reason": "Crearea de conținut scris este relevantă parțial, dar accentul pe UX design îl îndepărtează de domeniul filologic."
   }
 ]
