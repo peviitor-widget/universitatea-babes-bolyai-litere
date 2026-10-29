@@ -11,10 +11,28 @@
     "status": "scraped",
     "tags": [
       "traducere",
-      "analiză stilistică"
+      "redactare"
     ],
-    "matchPercentage": 95,
-    "reason": "Traducerea și editarea de texte valorifică direct competențele lingvistice și de redactare."
+    "matchPercentage": 92,
+    "reason": "Rolul de lingvist și copy editor engleză-română valorifică direct traducerea, analiza lingvistică și redactarea."
+  },
+  {
+    "url": "https://www.jobradar24.ro/anunt/interpreters-cultural-mediators-romanian-english-45m2v4",
+    "title": "Interpreters / Cultural Mediators - Romanian &amp; English",
+    "company": "VALOREM STATIO S.R.L.",
+    "location": [
+      "Iași",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-16T13:03:15.074Z",
+    "status": "scraped",
+    "tags": [
+      "limbă străină",
+      "comunicare orală"
+    ],
+    "matchPercentage": 80,
+    "reason": "Interpretariatul și medierea culturală română-engleză folosesc direct competențele lingvistice și de comunicare orală."
   },
   {
     "url": "https://yardiromania.breezy.hr/p/9791de0e2d6001-associate-editor",
@@ -25,32 +43,14 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-27T11:24:16.060Z",
+    "date": "2026-10-28T11:57:06.157Z",
     "status": "scraped",
     "tags": [
-      "redactare",
-      "analiză stilistică"
+      "comunicare scrisă",
+      "editare"
     ],
-    "matchPercentage": 90,
-    "reason": "Activități editoriale directe: redactare, interviuri, conținut media și social media."
-  },
-  {
-    "url": "https://careers.n-ix.com/jobs/4525546101-narrative-game-design-senior/",
-    "title": "Narrative Designer (Game Writer) (#5866)",
-    "company": "N-IX CARPATHIA S.R.L.",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:17:32.509Z",
-    "status": "scraped",
-    "tags": [
-      "teoria literaturii",
-      "analiză stilistică"
-    ],
-    "matchPercentage": 90,
-    "reason": "Scrierea narativă pentru jocuri valorifică direct interpretarea și teoria literaturii."
+    "matchPercentage": 65,
+    "reason": "Rol de editor cu redactare de articole și conținut media, potrivit parțial domeniului editare/publicare și nivelului entry."
   },
   {
     "url": "https://www.undelucram.ro/ro/locuri-de-munca/content-specialist/100433",
@@ -65,116 +65,9 @@
     "status": "scraped",
     "tags": [
       "comunicare scrisă",
-      "stilistică"
-    ],
-    "matchPercentage": 85,
-    "reason": "Creare conținut, scripturi și copywriting folosesc comunicare scrisă și stilistică."
-  },
-  {
-    "url": "https://www.jobradar24.ro/anunt/interpreters-cultural-mediators-romanian-english-45m2v4",
-    "title": "Interpreters / Cultural Mediators - Romanian &amp; English",
-    "company": "VALOREM STATIO S.R.L.",
-    "location": [
-      "Iași",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-16T13:03:15.074Z",
-    "status": "scraped",
-    "tags": [
-      "traducere",
-      "comunicare orală"
-    ],
-    "matchPercentage": 85,
-    "reason": "Interpretariatul și medierea culturală valorifică direct competențele lingvistice și comunicarea în limbi străine."
-  },
-  {
-    "url": "https://multijobs.ro/job/invatator-educator-pentru-scoala-gimnaziala/1714",
-    "title": "Învățător/Educator pentru Școală Gimnazială",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
-    "location": [
-      "Otopeni",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:20:33.969Z",
-    "status": "scraped",
-    "tags": [
-      "educație",
-      "morfologie"
-    ],
-    "matchPercentage": 85,
-    "reason": "Educație/formare, potrivit pentru utilizarea competențelor de limbă și literatură română."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3408037",
-    "title": "SECRETARA PRELUCRARE TEXTE",
-    "company": "KRONSTEF SRL",
-    "location": [
-      "Municipiul Targu Jiu",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:01:10.690Z",
-    "status": "scraped",
-    "tags": [
-      "ortografie",
-      "redactare"
-    ],
-    "matchPercentage": 70,
-    "reason": "Prelucrare și redactare de texte, cu accent pe ortografie, gramatică și formulare corecte."
-  },
-  {
-    "url": "https://oferimdemunca.ro/job/consultant-scriere-proiecte-remote/",
-    "title": "Consultant scriere proiecte - Remote",
-    "company": "SYREM CONSULT S.R.L.",
-    "location": [
-      "București",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:18:49.570Z",
-    "status": "scraped",
-    "tags": [
-      "comunicare scrisă",
-      "metodologie cercetare"
-    ],
-    "matchPercentage": 70,
-    "reason": "Scrierea proiectelor de finanțare valorifică parțial redactarea analitică și comunicarea scrisă."
-  },
-  {
-    "url": "https://www.ejobs.ro/user/locuri-de-munca/marketing-specialist-craiova-brand-social-media-content/1988094",
-    "title": "Marketing Specialist Craiova | Brand, Social Media &amp; Content",
-    "company": "EVOBRAND SRL",
-    "location": [
-      "Craiova",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:20:20.065Z",
-    "status": "scraped",
-    "tags": [
-      "comunicare scrisă",
       "analiză stilistică"
     ],
     "matchPercentage": 65,
-    "reason": "Scrierea de conținut pentru social media folosește abilități de comunicare scrisă, dar domeniul marketing nu valorifică direct competențele filologice."
-  },
-  {
-    "url": "https://updivision.com/careers/content-creator-with-an-eye-for-ux-design",
-    "title": "Content Creator with an eye for UX design",
-    "company": "UPDIVISION SRL",
-    "location": [
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:16:32.993Z",
-    "status": "scraped",
-    "tags": [
-      "comunicare scrisă",
-      "analiză stilistică"
-    ],
-    "matchPercentage": 65,
-    "reason": "Crearea de conținut scris este relevantă parțial, dar accentul pe UX design îl îndepărtează de domeniul filologic."
+    "reason": "Rol de creare și editare de conținut scris în media, parțial aliniat competențelor de comunicare scrisă și analiză stilistică."
   }
 ]
