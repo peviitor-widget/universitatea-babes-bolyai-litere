@@ -10,11 +10,47 @@
     "date": "2026-10-17T12:16:32.994Z",
     "status": "scraped",
     "tags": [
-      "lingvistică",
-      "editare"
+      "traducere",
+      "lexicologie"
     ],
     "matchPercentage": 90,
-    "reason": "Traducerea și editarea de conținut english-romanian folosesc direct competențele lingvistice și de redactare."
+    "reason": "Traducerea, editarea și corectura de texte folosesc direct competențele lingvistice și de analiză lexicală."
+  },
+  {
+    "url": "https://careers.n-ix.com/jobs/4525546101-narrative-game-design-senior/",
+    "title": "Narrative Designer (Game Writer) (#5866)",
+    "company": "N-IX CARPATHIA S.R.L.",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:17:32.509Z",
+    "status": "scraped",
+    "tags": [
+      "teoria literaturii",
+      "semiotică"
+    ],
+    "matchPercentage": 85,
+    "reason": "Scrierea narativă pentru jocuri utilizează direct teoria literaturii, narațiunea și elemente de semiotică."
+  },
+  {
+    "url": "https://yardiromania.breezy.hr/p/9791de0e2d6001-associate-editor",
+    "title": "Associate Editor",
+    "company": "YARDI CALL CENTER SRL",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-30T11:58:13.567Z",
+    "status": "scraped",
+    "tags": [
+      "comunicare scrisă",
+      "analiză stilistică"
+    ],
+    "matchPercentage": 78,
+    "reason": "Rol editorial cu scriere și editare de conținut, potrivit domeniului editare/publicare la nivel entry."
   },
   {
     "url": "https://www.jobradar24.ro/anunt/interpreters-cultural-mediators-romanian-english-45m2v4",
@@ -28,11 +64,29 @@
     "date": "2026-10-16T13:03:15.074Z",
     "status": "scraped",
     "tags": [
-      "traducere",
-      "comunicare orală"
+      "limbi străine",
+      "comunicare"
     ],
-    "matchPercentage": 88,
-    "reason": "Interpretariatul și medierea culturală română-engleză valorifică direct competențele lingvistice și de comunicare orală."
+    "matchPercentage": 75,
+    "reason": "Interpretariatul și medierea culturală folosesc limba străină și competențele de comunicare interculturală."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3408037",
+    "title": "SECRETARA PRELUCRARE TEXTE",
+    "company": "KRONSTEF SRL",
+    "location": [
+      "Municipiul Targu Jiu",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:01:10.690Z",
+    "status": "scraped",
+    "tags": [
+      "Comunicare scrisă",
+      "Ortografie"
+    ],
+    "matchPercentage": 68,
+    "reason": "Postul presupune redactare, corectură gramaticală și ortografică în limba română, activități care valorifică direct competențele filologice, iar nivelul de experiență este redus."
   },
   {
     "url": "https://www.undelucram.ro/ro/locuri-de-munca/content-specialist/100433",
@@ -47,45 +101,27 @@
     "status": "scraped",
     "tags": [
       "comunicare scrisă",
-      "analiză stilistică"
+      "storytelling"
     ],
-    "matchPercentage": 75,
-    "reason": "Content specialist în comunicare/media, cu copywriting și storytelling, valorifică scrierea și analiza stilistică."
+    "matchPercentage": 65,
+    "reason": "Scrierea de conținut și scenarii are legătură, dar este predominant orientat către marketing, nu către analiză filologică."
   },
   {
-    "url": "https://yardiromania.breezy.hr/p/9791de0e2d6001-associate-editor",
-    "title": "Associate Editor",
-    "company": "YARDI CALL CENTER SRL",
+    "url": "https://oferimdemunca.ro/job/consultant-scriere-proiecte-remote/",
+    "title": "Consultant scriere proiecte - Remote",
+    "company": "SYREM CONSULT S.R.L.",
     "location": [
-      "Cluj-Napoca",
+      "București",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-29T12:05:52.251Z",
+    "date": "2026-10-17T12:18:49.570Z",
     "status": "scraped",
     "tags": [
-      "Comunicare scrisă",
-      "Limbi străine"
+      "comunicare scrisă",
+      "cercetare"
     ],
-    "matchPercentage": 72,
-    "reason": "Rol editorial entry-level cu redactare, editare și producție media, parțial relevant pentru comunicare și editare."
-  },
-  {
-    "url": "https://multijobs.ro/job/invatator-educator-pentru-scoala-gimnaziala/1714",
-    "title": "Învățător/Educator pentru Școală Gimnazială",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
-    "location": [
-      "Otopeni",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:20:33.969Z",
-    "status": "scraped",
-    "tags": [
-      "comunicare orală",
-      "comunicare scrisă"
-    ],
-    "matchPercentage": 68,
-    "reason": "Rol entry-level în educație, unde comunicarea orală și scrisă în limba română se aplică direct."
+    "matchPercentage": 62,
+    "reason": "Scrierea proiectelor necesită redactare analitică, dar este mai mult administrativă decât interpretare literară sau lingvistică."
   }
 ]
