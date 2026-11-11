@@ -14,7 +14,7 @@
       "editare"
     ],
     "matchPercentage": 90,
-    "reason": "Lingvist și copy editor engleză-română, folosește direct traducerea și editarea de text."
+    "reason": "Lingvist și copy editor engleză-română, folosește direct traducerea, editarea și analiza lingvistică."
   },
   {
     "url": "https://www.jobradar24.ro/anunt/interpreters-cultural-mediators-romanian-english-45m2v4",
@@ -31,8 +31,8 @@
       "traducere",
       "limbi străine"
     ],
-    "matchPercentage": 82,
-    "reason": "Interpret și mediator cultural română-engleză, utilizare directă a competențelor lingvistice."
+    "matchPercentage": 85,
+    "reason": "Interpret și mediator cultural română-engleză, valorifică direct limbile străine și comunicarea orală."
   },
   {
     "url": "https://careers.n-ix.com/jobs/4525546101-narrative-game-design-senior/",
@@ -46,28 +46,10 @@
     "date": "2026-10-17T12:17:32.509Z",
     "status": "scraped",
     "tags": [
-      "analiză literară",
-      "scriere"
+      "literatură",
+      "scriere creativă"
     ],
     "matchPercentage": 65,
-    "reason": "Game writer cu sarcini de scriere narativă și construcție literară, potrivire parțială."
-  },
-  {
-    "url": "https://multijobs.ro/job/invatator-educator-pentru-scoala-gimnaziala/1714",
-    "title": "Învățător/Educator pentru Școală Gimnazială",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
-    "location": [
-      "Otopeni",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:20:33.969Z",
-    "status": "scraped",
-    "tags": [
-      "comunicare orala",
-      "limba romana"
-    ],
-    "matchPercentage": 60,
-    "reason": "Rol in invatamant (domeniul Educatie și formare), potrivit ca nivel, unde comunicarea in limba română si pregatirea filologă sunt direct folosibile, desi descrierea e saraca in detalii."
+    "reason": "Scriere narativă pentru jocuri, potrivire parțială prin competențele de literatură și scriere creativă."
   }
 ]
