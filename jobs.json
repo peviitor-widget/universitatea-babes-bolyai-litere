@@ -10,11 +10,11 @@
     "date": "2026-10-17T12:16:32.994Z",
     "status": "scraped",
     "tags": [
-      "traducere",
-      "editare"
+      "Traducere",
+      "Analiză stilistică"
     ],
-    "matchPercentage": 90,
-    "reason": "Lingvist și copy editor engleză-română, folosește direct traducerea, editarea și analiza lingvistică."
+    "matchPercentage": 92,
+    "reason": "Postul de lingvist și copy editor română-engleză folosește direct traducerea, editarea și analiza stilistică."
   },
   {
     "url": "https://www.jobradar24.ro/anunt/interpreters-cultural-mediators-romanian-english-45m2v4",
@@ -28,11 +28,11 @@
     "date": "2026-10-16T13:03:15.074Z",
     "status": "scraped",
     "tags": [
-      "traducere",
-      "limbi străine"
+      "Traducere",
+      "Comunicare orală"
     ],
     "matchPercentage": 85,
-    "reason": "Interpret și mediator cultural română-engleză, valorifică direct limbile străine și comunicarea orală."
+    "reason": "Interpretariat și mediere culturală română-engleză valorifică direct competențele lingvistice și interculturale."
   },
   {
     "url": "https://careers.n-ix.com/jobs/4525546101-narrative-game-design-senior/",
@@ -46,10 +46,10 @@
     "date": "2026-10-17T12:17:32.509Z",
     "status": "scraped",
     "tags": [
-      "literatură",
-      "scriere creativă"
+      "Teoria literaturii",
+      "Comunicare scrisă"
     ],
-    "matchPercentage": 65,
-    "reason": "Scriere narativă pentru jocuri, potrivire parțială prin competențele de literatură și scriere creativă."
+    "matchPercentage": 68,
+    "reason": "Scrierea narativă și construcția de povești valorifică analiza literară și competențele de scriere."
   }
 ]
