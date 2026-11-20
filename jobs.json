@@ -1,56 +1,20 @@
 [
   {
-    "url": "https://multijobs.ro/job/junior-content-creator/2266",
-    "title": "Junior Content Creator",
-    "company": "ADVICE DIGITAL S.R.L.",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T12:26:30Z",
-    "status": "tested",
-    "tags": [
-      "Comunicare scrisă",
-      "Analiză stilistică"
-    ],
-    "matchPercentage": 82,
-    "reason": "Poziție junior de content creator care valorifică direct redactarea și comunicarea scrisă în limba română."
-  },
-  {
-    "url": "https://multijobs.ro/job/social-media-content-creator/2299",
-    "title": "Social Media Content Creator",
+    "url": "https://multijobs.ro/job/content-moderator-bucuresti/5440",
+    "title": "Content Moderator – București",
     "company": "MULTIDATA MANAGEMENT S.R.L.",
     "location": [
       "Bucuresti",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T13:24:24Z",
+    "date": "2026-11-17T15:07:06Z",
     "status": "tested",
     "tags": [
-      "comunicare scrisă",
-      "analiză stilistică"
-    ],
-    "matchPercentage": 70,
-    "reason": "Crearea de conținut scris pentru social media se încadrează la comunicare și media, la nivel de început."
-  },
-  {
-    "url": "https://multijobs.ro/job/polish-content-moderator/6291",
-    "title": "Polish Content Moderator",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
-    "location": [
-      "Brașov",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T14:56:42Z",
-    "status": "tested",
-    "tags": [
-      "limbă străină",
-      "analiză semantică"
+      "Analiză semantică",
+      "Comunicare scrisă"
     ],
     "matchPercentage": 65,
-    "reason": "Moderarea conținutului în limba poloneză, la nivel de intrare, folosește limba străină și analiza textului."
+    "reason": "Moderarea conținutului la nivel entry-level se bazează pe analiza semantică și înțelegerea textelor în limba română."
   }
 ]
