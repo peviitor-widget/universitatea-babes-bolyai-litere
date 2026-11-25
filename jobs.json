@@ -11,28 +11,10 @@
     "date": "2026-11-17T12:57:11Z",
     "status": "tested",
     "tags": [
-      "limba străină",
+      "limbă străină",
       "analiză text"
     ],
-    "matchPercentage": 70,
-    "reason": "Rolul de review al conținutului în limba poloneză folosește direct competența de limbă străină și analiza de text, la nivel entry-level."
-  },
-  {
-    "url": "https://usamvjobs.ro/job/bucuresti-sector-1-2-creator-continut-foto-video-asistent-marketing/",
-    "title": "Creator continut foto - video și Asistent marketing.",
-    "company": "PESTCONTROL EXPERT SRL",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T15:26:16Z",
-    "status": "tested",
-    "tags": [
-      "comunicare scrisă",
-      "producere texte"
-    ],
-    "matchPercentage": 65,
-    "reason": "Rol entry-level de asistent marketing care implică analiză de broșuri și manuale și producere de conținut textual pentru medii online."
+    "matchPercentage": 72,
+    "reason": "Review de conținut în limba poloneză folosește direct competența de limbă străină și analiza de text, fără cerințe de senioritate."
   }
 ]
